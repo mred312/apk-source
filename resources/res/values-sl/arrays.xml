@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>krava</item>
+        <item>antilopa</item>
+        <item>gorila</item>
+        <item>žirafa</item>
+        <item>slon</item>
+        <item>hipo</item>
+        <item>lev</item>
+        <item>lisica</item>
+        <item>kenguru</item>
+        <item>pingvin</item>
+        <item>tiger</item>
+        <item>delfin</item>
+        <item>svinja</item>
+        <item>tjulen</item>
+        <item>gepard</item>
+        <item>volk</item>
+        <item>zebra</item>
+        <item>žaba</item>
+        <item>tukan</item>
+        <item>koala</item>
+        <item>petelin</item>
+        <item>komar</item>
+        <item>konj</item>
+        <item>koza</item>
+        <item>nosorog</item>
+        <item>čebela</item>
+        <item>pes</item>
+        <item>pelican</item>
+        <item>ovca</item>
+        <item>osel</item>
+        <item>orel</item>
+        <item>sova</item>
+        <item>svizev</item>
+        <item>svinja</item>
+        <item>severni medved</item>
+        <item>panda</item>
+        <item>veverica</item>
+        <item>kamela</item>
+        <item>kača</item>
+        <item>golob</item>
+        <item>žolna</item>
+        <item>ara</item>
+        <item>los</item>
+        <item>kokoš</item>
+        <item>divja raca</item>
+        <item>bober</item>
+        <item>jak</item>
+        <item>vrana</item>
+        <item>lemur</item>
+        <item>labod</item>
+        <item>galeb</item>
+        <item>osa</item>
+        <item>pav</item>
+        <item>jelen</item>
+        <item>vrabec</item>
+        <item>flamingo</item>
+        <item>štorklja</item>
+        <item>čaplja</item>
+        <item>emu</item>
+        <item>divja gos</item>
+        <item>raca</item>
+        <item>gos</item>
+        <item>mačka</item>
+        <item>noj</item>
+        <item>hiena</item>
+        <item>puran</item>
+        <item>krokodil</item>
+        <item>medved</item>
+        <item>kobilica</item>
+        <item>rakun</item>
+        <item>kalin</item>
+        <item>kos</item>
+        <item>siva vrana</item>
+        <item>ris</item>
+        <item>kit</item>
+        <item>kojot</item>
+        <item>miš</item>
+        <item>bizon</item>
+        <item>ibis</item>
+        <item>jelen</item>
+        <item>fly</item>
+        <item>smrdokavra</item>
+        <item>šimpanz</item>
+        <item>morski prašiček</item>
+        <item>ponirek</item>
+        <item>sinica</item>
+        <item>kakadu</item>
+        <item>zajec</item>
+        <item>taščica</item>
+        <item>sirukata</item>
+        <item>gekon</item>
+        <item>šakal</item>
+        <item>zebu</item>
+        <item>fazan</item>
+        <item>orangutan</item>
+        <item>kameleon</item>
+        <item>kljunorožec</item>
+        <item>krt</item>
+        <item>kapibara</item>
+        <item>orka</item>
+        <item>kukavica</item>
+        <item>jež</item>
+        <item>mormon</item>
+        <item>ikra</item>
+        <item>pikapolonica</item>
+        <item>svinja bradavičarka</item>
+        <item>rea</item>
+        <item>lama</item>
+        <item>pavijan</item>
+        <item>vidra</item>
+        <item>makak</item>
+        <item>kanarček</item>
+        <item>bivol</item>
+        <item>mrož</item>
+        <item>papigica</item>
+        <item>jaguar</item>
+        <item>dihur</item>
+        <item>sraka</item>
+        <item>gibon</item>
+        <item>želva</item>
+        <item>leopard</item>
+        <item>jastreb</item>
+        <item>puma</item>
+        <item>sokol</item>
+        <item>mačji panda</item>
+        <item>munga</item>
+        <item>žerjav</item>
+        <item>bik</item>
+        <item>podgana</item>
+        <item>nutrija</item>
+        <item>pegatek</item>
+        <item>hrček</item>
+        <item>činčila</item>
+        <item>kazuar</item>
+        <item>netopir</item>
+        <item>beluga</item>
+        <item>dihur</item>
+        <item>ježevec</item>
+        <item>mravljinčar</item>
+        <item>komodo zmaj</item>
+        <item>alpaka</item>
+        <item>lenivec</item>
+        <item>prepelica</item>
+        <item>pasavec</item>
+        <item>jay ptica</item>
+        <item>kačji pastir</item>
+        <item>starar</item>
+        <item>muflon</item>
+    </array>
+</resources>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>மாடு</item>
+        <item>மான்</item>
+        <item>கொரில்லா</item>
+        <item>ஒட்டகச்சிவிங்கி</item>
+        <item>யானை</item>
+        <item>நீர்யானை</item>
+        <item>சிங்கம்</item>
+        <item>நரி</item>
+        <item>கங்காரு</item>
+        <item>பென்குவின்</item>
+        <item>புலி</item>
+        <item>டால்பின்</item>
+        <item>பன்றி</item>
+        <item>கடல் நாய்</item>
+        <item>சிறுத்தை</item>
+        <item>ஓநாய்</item>
+        <item>வரிக்குதிரை</item>
+        <item>தவளை</item>
+        <item>பழச்சொண்டான்</item>
+        <item>ஆஸ்திரேலிய சிறிய விலங்கு</item>
+        <item>சேவல்</item>
+        <item>கொசு</item>
+        <item>குதிரை</item>
+        <item>வெள்ளாடு</item>
+        <item>காண்டாமிருகம்</item>
+        <item>தேனீ</item>
+        <item>நாய்</item>
+        <item>நாரை</item>
+        <item>ஆடு</item>
+        <item>கழுதை</item>
+        <item>கழுகு</item>
+        <item>ஆந்தை</item>
+        <item>மர்மொட்</item>
+        <item>பன்றி</item>
+        <item>துருவக் கரடி</item>
+        <item>இராட்சத செங்கரடி</item>
+        <item>அணில்</item>
+        <item>ஒட்டகம்</item>
+        <item>பாம்பு</item>
+        <item>புறா</item>
+        <item>மரங்கொத்தி</item>
+        <item>அரா</item>
+        <item>கடமான்</item>
+        <item>கோழி</item>
+        <item>காட்டு வாத்து</item>
+        <item>நீர்நாய்</item>
+        <item>கடமா</item>
+        <item>காகம்</item>
+        <item>மடகாஸ்கர் பகுதிக்குரிய விலங்கு</item>
+        <item>அன்னப் பறவை</item>
+        <item>கடற் பறவை</item>
+        <item>குளவி</item>
+        <item>மயில்</item>
+        <item>கலைமான்</item>
+        <item>சிட்டுக்குருவி</item>
+        <item>செந்நாரை</item>
+        <item>நாரை</item>
+        <item>ஹெரான்</item>
+        <item>ஈமு</item>
+        <item>காட்டு வாத்து</item>
+        <item>வாத்து</item>
+        <item>வாத்து</item>
+        <item>பூனை</item>
+        <item>தீக்கோழி</item>
+        <item>கழுதைப்புலி</item>
+        <item>வான்கோழி</item>
+        <item>முதலை</item>
+        <item>கரடி</item>
+        <item>வெட்டுக்கிளி</item>
+        <item>ரக்கூன்</item>
+        <item>சிவந்த மார்புடைய சிறுபறவை</item>
+        <item>கறுப்புப்பறவை</item>
+        <item>முக்காடிட்ட காகம்</item>
+        <item>லின்க்ஸ்</item>
+        <item>திமிங்கிலம்</item>
+        <item>கொயோட்</item>
+        <item>சுண்டெலி</item>
+        <item>காட்டு எருமை</item>
+        <item>நீரில் நடக்கும் நாரையினம்</item>
+        <item>மான்</item>
+        <item>ஈ</item>
+        <item>ஹூப்போ</item>
+        <item>சிம்பன்சி</item>
+        <item>கினி பன்றி</item>
+        <item>மூக்குளிப்பான்</item>
+        <item>சிறு பறவை வகை</item>
+        <item>பெரிய சூட்டுடைய கிளி</item>
+        <item>முயல்</item>
+        <item>ராபின் பறவை</item>
+        <item>கீரியினச் சிறு விலங்குவகை</item>
+        <item>பல்லி</item>
+        <item>குள்ளநரி</item>
+        <item>இமிலேறு</item>
+        <item>மயில் போன்ற ஒரு பட்சி</item>
+        <item>உராங்குட்டான் குரங்கு</item>
+        <item>மனிதக் குரங்கு</item>
+        <item>ஹோர்ன்பில்</item>
+        <item>மோல்</item>
+        <item>காபிபாரா</item>
+        <item>கூரிய பற்களுடைய திமிங்கிலம்</item>
+        <item>குயில்</item>
+        <item>ஹெட்ஜ்ஹாக்</item>
+        <item>அலகுடைய கடற்பறவை</item>
+        <item>ரோய்</item>
+        <item>வண்டு</item>
+        <item>மரு</item>
+        <item>ரியா</item>
+        <item>லாமா</item>
+        <item>பபூன்</item>
+        <item>ஒட்டர்</item>
+        <item>குரங்கு</item>
+        <item>கேனரி</item>
+        <item>எருமை</item>
+        <item>கடற்குதிரை</item>
+        <item>கூண்டில் வளர்க்கப்படத்தக்க பறவை வகை</item>
+        <item>சிறுத்தை வகை</item>
+        <item>மரநாய் வகை</item>
+        <item>ஐரோப்பியப் பறவை வகை</item>
+        <item>நீண்ட கைகளுள்ள குரங்குவகை</item>
+        <item>ஆமை</item>
+        <item>சிறுத்தை</item>
+        <item>ராஜாளி</item>
+        <item>பூமா</item>
+        <item>வல்லூறு</item>
+        <item>சிவப்பு பாண்டா கரடு</item>
+        <item>கீரிப் பிள்ளை</item>
+        <item>கிரேன்</item>
+        <item>காளை</item>
+        <item>எலி</item>
+        <item>நீரில் வாழும் கொறிக்கும் விலங்கு வகை</item>
+        <item>கினியாக்கோழி</item>
+        <item>வெள்ளெலி</item>
+        <item>சின்சில்லா</item>
+        <item>நியூகினியிலுள்ள தீக்கோழி இனத்தின் வகை</item>
+        <item>வெளவால்</item>
+        <item>வெள்ளைத் திமிங்கில்ம்</item>
+        <item>துர்நாற்றம் பரப்பும் பூனைவடிவக் காட்டுவிலங்கு</item>
+        <item>முள்ளம்பன்றி</item>
+        <item>எறும்பைத் தின்னும் விலங்குவகை</item>
+        <item>கொமோடோ டிராகன்</item>
+        <item>ஒட்டக இனத்தைச் சார்ந்த ஒரு வகை விலங்கு</item>
+        <item>தேவாங்கு</item>
+        <item>காடை</item>
+        <item>கீழறுக்கும் இயல்புடைய விலங்கு</item>
+        <item>வண்ண இறகுடைய ஐரோப்பியப் பறவை</item>
+        <item>தும்பி</item>
+        <item>பூசையினப் பறவை வகை</item>
+        <item>ஆட்டு வகை</item>
+    </array>
+</resources>

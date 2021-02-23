@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>بقرة</item>
+        <item>ظبي</item>
+        <item>غوريلا</item>
+        <item>زرافة</item>
+        <item>فيل</item>
+        <item>فرس النهر</item>
+        <item>أسد</item>
+        <item>ثعلب</item>
+        <item>كنغر</item>
+        <item>بِطْرِيق</item>
+        <item>نمر</item>
+        <item>دلفين</item>
+        <item>خنزير بري</item>
+        <item>فقمة</item>
+        <item>الفهد الصياد</item>
+        <item>الذئب</item>
+        <item>حمار الزرد</item>
+        <item>ضفدع</item>
+        <item>الطوقان</item>
+        <item>كوالا</item>
+        <item>ديك</item>
+        <item>بعوضة</item>
+        <item>حصان</item>
+        <item>ماعز</item>
+        <item>كركدن</item>
+        <item>نحلة</item>
+        <item>الكلب</item>
+        <item>بجع</item>
+        <item>خروف</item>
+        <item>حمار</item>
+        <item>نسر</item>
+        <item>بومة</item>
+        <item>مرموط</item>
+        <item>خنزير</item>
+        <item>الدب القطبي</item>
+        <item>باندا عملاقة</item>
+        <item>سنجاب</item>
+        <item>جمل</item>
+        <item>ثعبان</item>
+        <item>حمامه</item>
+        <item>نقارالخشب</item>
+        <item>آرا</item>
+        <item>أيل أمريكي</item>
+        <item>دجاجة</item>
+        <item>البط البري</item>
+        <item>قندس</item>
+        <item>القطاس</item>
+        <item>أسحم</item>
+        <item>الليمور</item>
+        <item>إوز عراقي</item>
+        <item>نورس</item>
+        <item>دبور</item>
+        <item>الطاووس</item>
+        <item>الرنة</item>
+        <item>عصفور الدوري</item>
+        <item>طائر البشروش</item>
+        <item>طائر اللقلق</item>
+        <item>البلشون</item>
+        <item>الإمو طائر استرالي</item>
+        <item>إوزة برية</item>
+        <item>بطة</item>
+        <item>إوزة</item>
+        <item>قط</item>
+        <item>نعامة</item>
+        <item>ضبع</item>
+        <item>الديك الرومي البري</item>
+        <item>تمساح</item>
+        <item>دب</item>
+        <item>جندب أمريكي</item>
+        <item>راكون</item>
+        <item>الدغناش عصفور مغرد</item>
+        <item>شحرور</item>
+        <item>غراب</item>
+        <item>وشق</item>
+        <item>حوت</item>
+        <item>ذئب البراري</item>
+        <item>فأر</item>
+        <item>بيسون أمريكي</item>
+        <item>أبو منجل</item>
+        <item>أيل</item>
+        <item>ذبابة</item>
+        <item>هدهد</item>
+        <item>شمبانزي</item>
+        <item>خنزير غينيا</item>
+        <item>غطاسيات</item>
+        <item>القرقف</item>
+        <item>كوكاتو</item>
+        <item>أرنب</item>
+        <item>أبو الحناء الأوروبي</item>
+        <item>سرقاط</item>
+        <item>أبو بريص</item>
+        <item>ابن آوى</item>
+        <item>حيوان الدرباني</item>
+        <item>طائر التدرج</item>
+        <item>إنسان الغاب</item>
+        <item>حرباء</item>
+        <item>أبو قرن</item>
+        <item>خلد</item>
+        <item>خنزير الماء</item>
+        <item>حوت قاتل</item>
+        <item>وَقْواق</item>
+        <item>قنفذ</item>
+        <item>البفن</item>
+        <item>يحمور أوروبي</item>
+        <item>نحل طنان</item>
+        <item>خنزير وحشي أفريقى</item>
+        <item>روحاء</item>
+        <item>لاما</item>
+        <item>البابون</item>
+        <item>قضاعة</item>
+        <item>قرد المكاك</item>
+        <item>كناري</item>
+        <item>جواميس</item>
+        <item>فظ</item>
+        <item>درة</item>
+        <item>يغور</item>
+        <item>نمس</item>
+        <item>عقعق</item>
+        <item>جيبون</item>
+        <item>سلحفاة</item>
+        <item>نمر</item>
+        <item>نسر</item>
+        <item>أسد الجبال</item>
+        <item>الصقر</item>
+        <item>الباندا الأحمر</item>
+        <item>السموريات</item>
+        <item>كركي شائع</item>
+        <item>ثور</item>
+        <item>جرذ</item>
+        <item>كيب</item>
+        <item>دجاج وادي غرب أفريقيا</item>
+        <item>همستر</item>
+        <item>شنشيلة</item>
+        <item>شبنم</item>
+        <item>الخفاش</item>
+        <item>حوت أبيض</item>
+        <item>ظربان</item>
+        <item>شيهم العالم القديم</item>
+        <item>النامل الأكبر</item>
+        <item>تنين كومودو</item>
+        <item>ألبكة</item>
+        <item>كسلان</item>
+        <item>سمان</item>
+        <item>مدرع</item>
+        <item>قيق أوراسي</item>
+        <item>اليعسوب</item>
+        <item>زرزور</item>
+        <item>الأروية</item>
+    </array>
+    <array name="wiki_links">
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D9%82%D8%B1%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B8%D8%A8%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%BA%D9%88%D8%B1%D9%8A%D9%84%D8%A7</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B2%D8%B1%D8%A7%D9%81%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%84_%D8%A7%D9%84%D8%A3%D8%AF%D8%BA%D8%A7%D9%84_%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%B3_%D8%A7%D9%84%D9%86%D9%87%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D8%AF</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AB%D8%B9%D9%84%D8%A8_%D8%A3%D8%AD%D9%85%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D9%86%D8%BA%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%B7%D8%B1%D9%8A%D9%82</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%A8%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D9%84%D9%81%D9%8A%D9%86</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AE%D9%86%D8%B2%D9%8A%D8%B1_%D8%A8%D8%B1%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%81%D9%82%D9%85%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%81%D9%87%D8%AF</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B0%D8%A6%D8%A8_%D8%B1%D9%85%D8%A7%D8%AF%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D8%B1_%D8%A7%D9%84%D8%B2%D8%B1%D8%AF_%D8%A7%D9%84%D8%B3%D9%87%D9%84%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B6%D9%81%D8%AF%D8%B9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B7%D9%88%D9%82%D8%A7%D9%86%D9%8A%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D9%88%D8%A7%D9%84%D8%A7</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%83</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%B9%D9%88%D8%B6%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AD%D8%B5%D8%A7%D9%86</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B9%D8%B2</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%83%D8%AF%D9%86%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%86%D8%AD%D9%84_%D8%A7%D9%84%D8%B9%D8%B3%D9%84</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D9%84%D8%A8</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B9%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AE%D8%B1%D9%88%D9%81</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D8%A8%D8%A7%D9%86_%D8%AD%D9%82%D9%8A%D9%82%D9%8A%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%85%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%85%D9%88%D8%B7</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AE%D9%86%D8%B2%D9%8A%D8%B1_%D8%A3%D9%84%D9%8A%D9%81</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D8%A8_%D9%82%D8%B7%D8%A8%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%D8%AF%D8%A7_%D8%B9%D9%85%D9%84%D8%A7%D9%82%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B3%D9%86%D8%AC%D8%A7%D8%A8%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AC%D9%85%D9%84</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AB%D8%B9%D8%A8%D8%A7%D9%86</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D8%B1_%D8%AE%D8%B4%D8%A8_%D9%85%D8%B1%D9%82%D8%B7_%D9%83%D8%A8%D9%8A%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A2%D8%B1%D8%A7_(%D8%A8%D8%A8%D8%BA%D8%A7%D8%A1)</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%85%D9%88%D8%B8</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D8%AC%D8%A7%D8%AC</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%83%D8%A9_(%D8%B7%D8%A7%D8%A6%D8%B1)</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%AF%D8%B3</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%A7%D8%B3_%D8%A3%D9%84%D9%8A%D9%81</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%BA%D8%B1%D8%A7%D8%A8_%D8%A3%D8%B3%D8%AD%D9%85</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%84%D9%8A%D9%85%D9%88%D8%B1_%D8%AD%D9%84%D9%82%D9%8A_%D8%A7%D9%84%D8%B0%D9%8A%D9%84</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A5%D9%88%D8%B2_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D8%B3%D9%8A%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B2%D9%86%D8%A8%D8%A7%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%88%D9%88%D8%B3_%D9%87%D9%86%D8%AF%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B1%D9%86%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%8A_%D8%B4%D8%A7%D8%A6%D8%B9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%86%D8%AD%D8%A7%D9%85_%D8%A3%D9%83%D8%A8%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%84%D9%82%D9%84%D9%82_%D8%A3%D8%A8%D9%8A%D8%B6</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D9%84%D8%B4%D9%88%D9%86_%D8%B1%D9%85%D8%A7%D8%AF%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D9%85%D9%88</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D9%88%D8%B2%D8%A7%D9%88%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%B7_%D9%85%D8%B3%D8%AA%D8%A3%D9%86%D8%B3</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A5%D9%88%D8%B2_%D9%85%D8%B3%D8%AA%D8%A3%D9%86%D8%B3</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%82%D8%B7</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%86%D8%B9%D8%A7%D9%85%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B6%D8%A8%D8%B9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%83_%D8%B1%D9%88%D9%85%D9%8A_%D8%A8%D8%B1%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D8%B3%D8%A7%D8%AD%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D8%A8_%D8%A8%D9%86%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%AF%D8%A8</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D9%83%D9%88%D9%86_%D8%B4%D8%A7%D8%A6%D8%B9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D8%BA%D9%86%D8%A7%D8%B4_%D8%A3%D9%88%D8%B1%D8%A7%D8%B3%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B4%D8%AD%D8%B1%D9%88%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%BA%D8%B1%D8%A7%D8%A8_%D9%85%D9%82%D9%86%D8%B9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%88%D8%B4%D9%82_%D8%A3%D9%88%D8%B1%D8%A7%D8%B3%D9%8A%D8%A7</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%82%D9%8A%D9%88%D8%B7</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%81%D8%A3%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%B3%D9%88%D9%86_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%85%D9%86%D8%AC%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D9%85%D8%B2%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D9%8A%D9%84_%D8%A3%D8%AD%D9%85%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B0%D8%A8%D8%A7%D8%A8%D8%A9_%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%87%D8%AF%D9%87%D8%AF</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B4%D9%8A%D9%85%D8%A8%D8%A7%D9%86%D8%B2%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%A8%D9%8A%D8%A7%D8%A1_%D8%AE%D9%86%D8%B2%D9%8A%D8%B1%D9%8A%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%BA%D8%B7%D8%A7%D8%B3_%D9%85%D8%AA%D9%88%D8%AC</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%82%D8%B1%D9%82%D9%81</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%83%D8%A7%D8%AA%D9%88</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D8%B1%D9%86%D8%A8_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B3%D8%B1%D9%82%D8%A7%D8%B7</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D8%B1%D9%8A%D8%B5</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%A2%D9%88%D9%89_%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D9%82%D8%B1%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AA%D8%AF%D8%B1%D8%AC_%D9%85%D8%A3%D9%84%D9%88%D9%81</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%B3%D8%A7%D9%86_%D8%A7%D9%84%D8%BA%D8%A7%D8%A8</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A8%D8%A7%D8%A1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%82%D8%B1%D9%86</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B7%D9%88%D8%A8%D9%8A%D9%86%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AE%D9%86%D8%B2%D9%8A%D8%B1_%D8%A7%D9%84%D9%85%D8%A7%D8%A1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D8%AA_%D9%82%D8%A7%D8%AA%D9%84</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%88%D9%82%D9%88%D8%A7%D9%82_%D8%B4%D8%A7%D8%A6%D8%B9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%82%D9%86%D9%81%D8%B0%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%A8%D8%BA%D8%A7%D8%A1_%D8%A7%D9%84%D8%BA%D8%B7%D8%A7%D8%B3</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%8A%D8%AD%D9%85%D9%88%D8%B1_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%86%D8%AD%D9%84_%D8%B7%D9%86%D8%A7%D9%86</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AE%D9%86%D8%B2%D9%8A%D8%B1_%D9%88%D8%AD%D8%B4%D9%8A_%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%89</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D8%A9_%D9%83%D8%A8%D8%B1%D9%89</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%84%D8%A7%D9%85%D8%A9_(%D8%AC%D9%86%D8%B3)</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B1%D8%A8%D8%A7%D8%AD</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%82%D8%B6%D8%A7%D8%B9%D8%A9_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%85%D9%83%D8%A7%D9%83_%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D9%86%D8%A7%D8%B1%D9%8A_%D8%A3%D8%B7%D9%84%D9%86%D8%B7%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D9%88%D8%B3_%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%81%D8%B8_(%D8%AD%D9%8A%D9%88%D8%A7%D9%86)</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D8%B1%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%8A%D8%BA%D9%88%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D9%85%D9%82%D8%B1%D8%B6</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D8%B9%D9%82_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AC%D9%8A%D8%A8%D9%88%D9%86</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D8%AD%D9%81%D8%A7%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%86%D9%85%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%86%D8%B3%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D8%AF_%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D9%8A%D9%86</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%D8%AF%D8%A7_%D8%A3%D8%AD%D9%85%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B3%D9%85%D9%88%D8%B1%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%83%D9%8A_%D8%B4%D8%A7%D8%A6%D8%B9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AB%D9%88%D8%B1_(%D8%AD%D9%8A%D9%88%D8%A7%D9%86)</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D8%B0</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D9%8A%D8%A8_(%D8%AD%D9%8A%D9%88%D8%A7%D9%86)</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AF%D8%AC%D8%A7%D8%AC_%D8%BA%D9%8A%D9%86%D9%8A_%D8%A3%D8%A8%D9%88_%D8%AE%D9%88%D8%B0%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D9%82%D8%AF%D8%A7%D8%AF</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B4%D9%86%D8%B4%D9%8A%D9%84%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%86%D9%85_%D8%B4%D9%85%D8%A7%D9%84%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AE%D9%81%D8%A7%D8%B4%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D8%AA_%D8%A3%D8%A8%D9%8A%D8%B6</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B8%D8%B1%D8%A8%D8%A7%D9%86</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B4%D9%8A%D9%87%D9%85_%D8%AC%D9%86%D9%88%D8%A8_%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A2%D9%83%D9%84_%D8%A7%D9%84%D9%86%D9%85%D9%84_%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D9%8A%D9%86_%D9%83%D9%88%D9%85%D9%88%D8%AF%D9%88</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A8%D9%83%D8%A9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%83%D8%B3%D9%84%D8%A7%D9%86%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B3%D9%85%D8%A7%D9%86_%D8%B4%D8%A7%D8%A6%D8%B9</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D8%B9_(%D8%AD%D9%8A%D9%88%D8%A7%D9%86)</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%82%D9%8A%D9%82_%D8%A3%D9%88%D8%B1%D8%A7%D8%B3%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D9%8A%D8%B9%D8%B3%D9%88%D8%A8%D9%8A%D8%A7%D8%AA</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%B2%D8%B1%D8%B2%D9%88%D8%B1_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A</item>
+        <item>https://ar.wikipedia.org/wiki/%D8%A3%D8%B1%D9%88%D9%8A%D8%A9_(%D8%AD%D9%8A%D9%88%D8%A7%D9%86)</item>
+    </array>
+</resources>

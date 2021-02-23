@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>корова</item>
+        <item>антилопа</item>
+        <item>горила</item>
+        <item>жирафа</item>
+        <item>слон</item>
+        <item>гіпопотам</item>
+        <item>лев</item>
+        <item>лисиця</item>
+        <item>кенгуру</item>
+        <item>пінгвін</item>
+        <item>тигр</item>
+        <item>дельфін</item>
+        <item>вепр</item>
+        <item>тюлень</item>
+        <item>гепард</item>
+        <item>вовк</item>
+        <item>зебра</item>
+        <item>жаба</item>
+        <item>тукан</item>
+        <item>коала</item>
+        <item>півень</item>
+        <item>комар</item>
+        <item>кінь</item>
+        <item>козел</item>
+        <item>носоріг</item>
+        <item>бджола</item>
+        <item>пес</item>
+        <item>пелікан</item>
+        <item>вівця</item>
+        <item>осел</item>
+        <item>орел</item>
+        <item>сова</item>
+        <item>бабак</item>
+        <item>свиня</item>
+        <item>білий ведмідь</item>
+        <item>велика панда</item>
+        <item>білка</item>
+        <item>верблюд</item>
+        <item>змія</item>
+        <item>голуб</item>
+        <item>дятел</item>
+        <item>ара</item>
+        <item>лось</item>
+        <item>курка</item>
+        <item>дика качка</item>
+        <item>бобер</item>
+        <item>як</item>
+        <item>крук</item>
+        <item>лемур</item>
+        <item>лебідь</item>
+        <item>чайка</item>
+        <item>оса</item>
+        <item>павич</item>
+        <item>північний олень</item>
+        <item>горобець</item>
+        <item>фламінго</item>
+        <item>лелека</item>
+        <item>чапля</item>
+        <item>ему</item>
+        <item>дикий гусак</item>
+        <item>качка</item>
+        <item>гуска</item>
+        <item>кіт</item>
+        <item>страус</item>
+        <item>гієна</item>
+        <item>індичка</item>
+        <item>крокодил</item>
+        <item>ведмідь</item>
+        <item>коник зелений</item>
+        <item>ракун</item>
+        <item>снігур</item>
+        <item>дрізд</item>
+        <item>ворона</item>
+        <item>рись</item>
+        <item>кит</item>
+        <item>койот</item>
+        <item>миша</item>
+        <item>бізон</item>
+        <item>ібіс</item>
+        <item>олень</item>
+        <item>муха</item>
+        <item>одуд</item>
+        <item>шимпанзе</item>
+        <item>морська свинка</item>
+        <item>пірникоза</item>
+        <item>синиця</item>
+        <item>какаду</item>
+        <item>кріль</item>
+        <item>вільшанка</item>
+        <item>сурикат</item>
+        <item>гекон</item>
+        <item>шакал</item>
+        <item>зебу</item>
+        <item>фазан</item>
+        <item>орангутан</item>
+        <item>хамелеон</item>
+        <item>птах-носоріг</item>
+        <item>кріт</item>
+        <item>капібара</item>
+        <item>касатка</item>
+        <item>зозуля</item>
+        <item>їжак</item>
+        <item>тупик атлантичний</item>
+        <item>сарна</item>
+        <item>джміль</item>
+        <item>бородавочник африканський</item>
+        <item>нанду</item>
+        <item>лама</item>
+        <item>бабуїн</item>
+        <item>видра</item>
+        <item>макака</item>
+        <item>канарка</item>
+        <item>буйвол</item>
+        <item>морж</item>
+        <item>хвилястий папужка</item>
+        <item>ягуар</item>
+        <item>фретка</item>
+        <item>сорока</item>
+        <item>гібон</item>
+        <item>черепаха</item>
+        <item>леопард</item>
+        <item>гриф</item>
+        <item>пума</item>
+        <item>сокіл</item>
+        <item>червона панда</item>
+        <item>мангуст</item>
+        <item>журавель</item>
+        <item>бик</item>
+        <item>щур</item>
+        <item>нутрія</item>
+        <item>цесарка</item>
+        <item>хом&apos;як</item>
+        <item>шиншила</item>
+        <item>казуар</item>
+        <item>кажан</item>
+        <item>білуха</item>
+        <item>скунс</item>
+        <item>дикобраз</item>
+        <item>мурахоїд</item>
+        <item>комодський варан</item>
+        <item>альпака</item>
+        <item>лінивець</item>
+        <item>перепілка</item>
+        <item>броненосець</item>
+        <item>сойка</item>
+        <item>бабка</item>
+        <item>шпак</item>
+        <item>муфлон</item>
+    </array>
+</resources>

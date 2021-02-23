@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>bò cái</item>
+        <item>linh dương</item>
+        <item>khỉ đột</item>
+        <item>hươu cao cổ</item>
+        <item>voi</item>
+        <item>hà mã</item>
+        <item>sư tử</item>
+        <item>cáo</item>
+        <item>kangaroo</item>
+        <item>chim cánh cụt</item>
+        <item>hổ</item>
+        <item>cá heo</item>
+        <item>lợn rừng</item>
+        <item>hải cẩu</item>
+        <item>báo săn</item>
+        <item>chó sói</item>
+        <item>ngựa vằn</item>
+        <item>ếch</item>
+        <item>chim tucăng</item>
+        <item>gấu túi</item>
+        <item>gà trống</item>
+        <item>muỗi</item>
+        <item>ngựa</item>
+        <item>dê</item>
+        <item>tê giác</item>
+        <item>ong</item>
+        <item>chó</item>
+        <item>bồ nông</item>
+        <item>cừu</item>
+        <item>lừa</item>
+        <item>đại bàng</item>
+        <item>cú</item>
+        <item>con macmôt</item>
+        <item>lợn</item>
+        <item>gấu trắng Bắc Cực</item>
+        <item>gấu trúc lớn</item>
+        <item>sóc</item>
+        <item>lạc đà</item>
+        <item>rắn</item>
+        <item>chim bồ câu</item>
+        <item>chim gõ kiến</item>
+        <item>ara</item>
+        <item>nai sừng tấm châu âu</item>
+        <item>gà mái</item>
+        <item>vịt hoang</item>
+        <item>hải ly</item>
+        <item>bò tây tạng</item>
+        <item>quạ</item>
+        <item>vượn cáo</item>
+        <item>thiên nga</item>
+        <item>mòng biển</item>
+        <item>ong bắp cày</item>
+        <item>chim công</item>
+        <item>tuần lộc</item>
+        <item>chim sẻ</item>
+        <item>hồng hạc</item>
+        <item>hạc</item>
+        <item>diệc</item>
+        <item>đà điểu châu úc</item>
+        <item>ngỗng hoang</item>
+        <item>vịt</item>
+        <item>ngỗng</item>
+        <item>mèo</item>
+        <item>đà điểu</item>
+        <item>linh cẩu</item>
+        <item>gà tây</item>
+        <item>cá sấu</item>
+        <item>gấu nâu</item>
+        <item>châu chấu</item>
+        <item>gấu mèo mỹ</item>
+        <item>chim sẻ ức đỏ</item>
+        <item>chim hoét thông thường</item>
+        <item>quạ</item>
+        <item>linh miêu</item>
+        <item>cá voi</item>
+        <item>sói đồng cỏ</item>
+        <item>chuột</item>
+        <item>bò rừng</item>
+        <item>cò quăm</item>
+        <item>hươu</item>
+        <item>ruồi</item>
+        <item>chim đầu rìu</item>
+        <item>tinh tinh</item>
+        <item>chuột lang nhà</item>
+        <item>chim lặn</item>
+        <item>bạc má</item>
+        <item>vẹt mào</item>
+        <item>thỏ</item>
+        <item>oanh châu Âu</item>
+        <item>meerkat</item>
+        <item>tắc kè</item>
+        <item>chó rừng</item>
+        <item>bò u</item>
+        <item>trĩ đỏ</item>
+        <item>đười ươi</item>
+        <item>tắc kè hoa</item>
+        <item>hồng hoàng</item>
+        <item>chuột chũi</item>
+        <item>chuột lang nước</item>
+        <item>cá voi sát thủ</item>
+        <item>cu cu</item>
+        <item>nhím gai</item>
+        <item>hải âu mỏ sáng</item>
+        <item>con hoẵng</item>
+        <item>ong nghệ</item>
+        <item>lợn nanh sừng châu Phi</item>
+        <item>Đà điểu Nam Mỹ</item>
+        <item>lạc đà không bướu</item>
+        <item>khỉ đầu chó</item>
+        <item>rái cá</item>
+        <item>khỉ Cựu thế giới</item>
+        <item>bạch yến Đại Tây Dương</item>
+        <item>trâu</item>
+        <item>hải mã</item>
+        <item>vẹt đuôi dài Úc</item>
+        <item>báo đốm Mỹ</item>
+        <item>chồn sương</item>
+        <item>ác là</item>
+        <item>Vượn</item>
+        <item>rùa</item>
+        <item>báo hoa mai</item>
+        <item>kền kền</item>
+        <item>báo sư tử</item>
+        <item>chim cắt</item>
+        <item>gấu trúc đỏ</item>
+        <item>cầy mangut</item>
+        <item>sếu cổ trắng</item>
+        <item>bò mộng</item>
+        <item>chuột cống</item>
+        <item>chuột hải ly</item>
+        <item>gà sao</item>
+        <item>chuột hams</item>
+        <item>chinchilla</item>
+        <item>đà điểu đầu mào</item>
+        <item>bộ dơi</item>
+        <item>cá voi trắng</item>
+        <item>chồn hôi sọc</item>
+        <item>nhím</item>
+        <item>thú ăn kiến</item>
+        <item>rồng komodo</item>
+        <item>lạc đà nhà Nam Mỹ</item>
+        <item>con lười</item>
+        <item>chim cút</item>
+        <item>động vật không răng</item>
+        <item>quạ thông Á Âu</item>
+        <item>con chuồn chuồn</item>
+        <item>chim sáo</item>
+        <item>mouflon</item>
+    </array>
+</resources>

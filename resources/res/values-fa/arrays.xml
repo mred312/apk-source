@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>گاو</item>
+        <item>بزکوهی</item>
+        <item>گوریل</item>
+        <item>زرافه</item>
+        <item>فیل</item>
+        <item>اسب آبی</item>
+        <item>شیر</item>
+        <item>روباه</item>
+        <item>کانگارو</item>
+        <item>پنگوئن</item>
+        <item>ببر</item>
+        <item>دلفین</item>
+        <item>گراز</item>
+        <item>خوک آبی</item>
+        <item>یوزپلنگ</item>
+        <item>گرگ</item>
+        <item>گورخر</item>
+        <item>قورباغه</item>
+        <item>توکان</item>
+        <item>کوآلا</item>
+        <item>خروس</item>
+        <item>پشه</item>
+        <item>اسب</item>
+        <item>بز</item>
+        <item>کرگدن</item>
+        <item>زنبور عسل</item>
+        <item>سگ</item>
+        <item>مرغ ماهیخوار</item>
+        <item>گوسفند</item>
+        <item>الاغ</item>
+        <item>عقاب</item>
+        <item>جغد</item>
+        <item>موش خرمای کوهی</item>
+        <item>خوک</item>
+        <item>خرس قطبی</item>
+        <item>پاندای غول‌پیکر</item>
+        <item>سنجاب</item>
+        <item>شتر</item>
+        <item>مار</item>
+        <item>کبوتر</item>
+        <item>دارکوب</item>
+        <item>آرا (طوطی)</item>
+        <item>موس</item>
+        <item>مرغ</item>
+        <item>اردک وحشی</item>
+        <item>سگ آبی</item>
+        <item>گاومیش</item>
+        <item>کلاغ سیاه</item>
+        <item>میمون لمور</item>
+        <item>قو</item>
+        <item>مرغ دریایی</item>
+        <item>زنبور</item>
+        <item>طاووس</item>
+        <item>گوزن شمالی</item>
+        <item>گنجشک</item>
+        <item>فلامینگو</item>
+        <item>لک لک</item>
+        <item>حواصیل</item>
+        <item>شترمرغ استرالیایی</item>
+        <item>غاز وحشی</item>
+        <item>اردک</item>
+        <item>غاز</item>
+        <item>گربه</item>
+        <item>شتر مرغ</item>
+        <item>کفتار</item>
+        <item>بوقلمون</item>
+        <item>تمساح</item>
+        <item>خرس</item>
+        <item>ملخ</item>
+        <item>راکون</item>
+        <item>سهره</item>
+        <item>توکای سیاه</item>
+        <item>کلاغ کلاه دار</item>
+        <item>سیاهگوش</item>
+        <item>نهنگ</item>
+        <item>گرگ صحرایی امریکای شمالی</item>
+        <item>موش</item>
+        <item>گاومیش کوهان دار</item>
+        <item>اکراس</item>
+        <item>گوزن</item>
+        <item>مگس</item>
+        <item>هدهد</item>
+        <item>شامپانزه</item>
+        <item>خوکچه هندی</item>
+        <item>کشیم</item>
+        <item>چرخ ریسَک</item>
+        <item>کاکاتو</item>
+        <item>خرگوش</item>
+        <item>سینه سرخ</item>
+        <item>دم‌عصایی</item>
+        <item>گکو</item>
+        <item>شغال</item>
+        <item>گاو کوهان دار</item>
+        <item>قرقاول</item>
+        <item>اورانگوتان</item>
+        <item>آفتاب پرست</item>
+        <item>نوک‌شاخ</item>
+        <item>موش کور</item>
+        <item>کاپی بارا</item>
+        <item>نهنگ قاتل</item>
+        <item>فاخته</item>
+        <item>خارپشت</item>
+        <item>طوطی دریایی</item>
+        <item>شوکا</item>
+        <item>خر زنبور</item>
+        <item>گراز زگیل‌دار</item>
+        <item>رئا</item>
+        <item>لاما</item>
+        <item>عنتر</item>
+        <item>سمور آبی</item>
+        <item>ماکاک</item>
+        <item>قناری</item>
+        <item>گاومیش</item>
+        <item>گراز دریایی</item>
+        <item>مرغ عشق</item>
+        <item>جگوار</item>
+        <item>راسوی اهلی</item>
+        <item>زاغی</item>
+        <item>گیبون</item>
+        <item>لاک پشت‎</item>
+        <item>پلنگ</item>
+        <item>کرکس</item>
+        <item>شیر کوهی</item>
+        <item>شاهین</item>
+        <item>پاندای سرخ</item>
+        <item>خدنگ</item>
+        <item>درنا</item>
+        <item>گاو نر‎</item>
+        <item>موش صحرایی</item>
+        <item>موش بیور</item>
+        <item>مرغ شاخدار</item>
+        <item>همستر</item>
+        <item>چینچیلا</item>
+        <item>کاسوآری</item>
+        <item>خفاش</item>
+        <item>نهنگ سفید</item>
+        <item>گندراسو</item>
+        <item>تشی</item>
+        <item>مورچه‌خوار</item>
+        <item>اژدهای کومودو</item>
+        <item>آلپاکا</item>
+        <item>تنبل</item>
+        <item>بلدرچین</item>
+        <item>آرمادیلو</item>
+        <item>جیجاق</item>
+        <item>سنجاقک</item>
+        <item>سار</item>
+        <item>موفلون</item>
+    </array>
+</resources>

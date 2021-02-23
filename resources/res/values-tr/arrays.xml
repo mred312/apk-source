@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>inek</item>
+        <item>antilop</item>
+        <item>goril</item>
+        <item>zürafa</item>
+        <item>fil</item>
+        <item>su aygırı</item>
+        <item>aslan</item>
+        <item>tilki</item>
+        <item>kanguru</item>
+        <item>penguen</item>
+        <item>kaplan</item>
+        <item>yunus</item>
+        <item>yaban domuzu</item>
+        <item>fok</item>
+        <item>çita</item>
+        <item>kurt</item>
+        <item>zebra</item>
+        <item>kurbağa</item>
+        <item>tukan</item>
+        <item>koala</item>
+        <item>horoz</item>
+        <item>sivrisinek</item>
+        <item>at</item>
+        <item>keçi</item>
+        <item>gergedan</item>
+        <item>arı</item>
+        <item>köpek</item>
+        <item>pelikan</item>
+        <item>koyun</item>
+        <item>eşek</item>
+        <item>kartal</item>
+        <item>baykuş</item>
+        <item>dağ sıçanı</item>
+        <item>domuz</item>
+        <item>kutup ayısı</item>
+        <item>dev panda</item>
+        <item>sincap</item>
+        <item>deve</item>
+        <item>yılan</item>
+        <item>güvercin</item>
+        <item>ağaçkakan</item>
+        <item>ara</item>
+        <item>sığın</item>
+        <item>tavuk</item>
+        <item>yaban ördeği</item>
+        <item>kunduz</item>
+        <item>yak</item>
+        <item>kuzgun</item>
+        <item>maki</item>
+        <item>kuğu</item>
+        <item>martı</item>
+        <item>eşek arısı</item>
+        <item>tavuskuşu</item>
+        <item>ren geyiği</item>
+        <item>serçe</item>
+        <item>flamingo</item>
+        <item>leylek</item>
+        <item>balıkçıl</item>
+        <item>koşucu devekuşu</item>
+        <item>yaban kazı</item>
+        <item>ördek</item>
+        <item>kaz</item>
+        <item>kedi</item>
+        <item>devekuşu</item>
+        <item>sırtlan</item>
+        <item>hindi</item>
+        <item>timsah</item>
+        <item>ayı</item>
+        <item>çekirge</item>
+        <item>rakun</item>
+        <item>şakrak kuşu</item>
+        <item>karatavuk</item>
+        <item>karga</item>
+        <item>vaşak</item>
+        <item>balina</item>
+        <item>kır kurdu</item>
+        <item>fare</item>
+        <item>bizon</item>
+        <item>ibis</item>
+        <item>geyik</item>
+        <item>karasinek</item>
+        <item>ibibik</item>
+        <item>şempaze</item>
+        <item>kobay</item>
+        <item>batağan</item>
+        <item>baştankara</item>
+        <item>kakadu</item>
+        <item>tavşan</item>
+        <item>kızıgerdan</item>
+        <item>mirket</item>
+        <item>gekogiller</item>
+        <item>çakal</item>
+        <item>hint öküzü</item>
+        <item>sülün</item>
+        <item>orangutan</item>
+        <item>bukalemun</item>
+        <item>boynuzgaga</item>
+        <item>köstebek</item>
+        <item>kapibara</item>
+        <item>katil balina</item>
+        <item>guguk</item>
+        <item>kirpi</item>
+        <item>deniz papağanı</item>
+        <item>karaca</item>
+        <item>bombus</item>
+        <item>düğmeli domuz</item>
+        <item>nandugiller</item>
+        <item>lama</item>
+        <item>babun</item>
+        <item>su samuru</item>
+        <item>şebek</item>
+        <item>kanarya</item>
+        <item>buffalo</item>
+        <item>mors</item>
+        <item>muhabbet kuşu</item>
+        <item>jaguar</item>
+        <item>feret</item>
+        <item>saksağan</item>
+        <item>gibon</item>
+        <item>kaplumbağa</item>
+        <item>leopar</item>
+        <item>akbaba</item>
+        <item>puma</item>
+        <item>doğan</item>
+        <item>küçük panda</item>
+        <item>kuyruksürengiller</item>
+        <item>turna</item>
+        <item>boğa</item>
+        <item>sıçan</item>
+        <item>koypu</item>
+        <item>beçtavuğu</item>
+        <item>hemstır</item>
+        <item>çinçilla</item>
+        <item>cassowary</item>
+        <item>yarasa</item>
+        <item>beluga</item>
+        <item>kokarca</item>
+        <item>oklu kirpi</item>
+        <item>karıncayiyen</item>
+        <item>Komodo ejderi</item>
+        <item>alpaka</item>
+        <item>tembel hayvan</item>
+        <item>bıldırcın</item>
+        <item>armadillo</item>
+        <item>alakarga</item>
+        <item>kızböceği</item>
+        <item>sığyrcık</item>
+        <item>muflon</item>
+    </array>
+</resources>

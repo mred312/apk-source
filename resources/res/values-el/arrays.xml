@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>αγελάδα</item>
+        <item>αντιλόπη</item>
+        <item>γορίλας</item>
+        <item>καμηλοπάρδαλη</item>
+        <item>ελέφαντας</item>
+        <item>ιπποπόταμος</item>
+        <item>λιοντάρι</item>
+        <item>αλεπού</item>
+        <item>καγκουρό</item>
+        <item>πιγκουίνος</item>
+        <item>τίγρης</item>
+        <item>δελφίνι</item>
+        <item>αγριογούρουνο</item>
+        <item>φώκια</item>
+        <item>γατόπαρδος</item>
+        <item>λύκος</item>
+        <item>ζέβρα</item>
+        <item>βάτραχος</item>
+        <item>τουκάν</item>
+        <item>κοάλα</item>
+        <item>κόκορας</item>
+        <item>κουνούπι</item>
+        <item>άλογο</item>
+        <item>κατσίκα</item>
+        <item>ρινόκερος</item>
+        <item>μέλισσα</item>
+        <item>σκύλος</item>
+        <item>πελεκάνος</item>
+        <item>πρόβατο</item>
+        <item>γαϊδούρι</item>
+        <item>αετός</item>
+        <item>κουκουβάγια</item>
+        <item>μαρμότα</item>
+        <item>γουρούνι</item>
+        <item>πολική αρκούδα</item>
+        <item>γιγαντιαίο πάντα</item>
+        <item>σκίουρος</item>
+        <item>καμήλα</item>
+        <item>φίδι</item>
+        <item>περιστέρι</item>
+        <item>δρυοκολάπτης</item>
+        <item>άρα</item>
+        <item>άλκη</item>
+        <item>κότα</item>
+        <item>άγρια ​​πάπια</item>
+        <item>κάστορας</item>
+        <item>γιακ</item>
+        <item>κοράκι</item>
+        <item>λεμούριος</item>
+        <item>κύκνος</item>
+        <item>γλάρος</item>
+        <item>σφήκα</item>
+        <item>παγόνι</item>
+        <item>τάρανδος</item>
+        <item>σπουργίτι</item>
+        <item>φλαμίνγκο</item>
+        <item>πελαργός</item>
+        <item>ερωδιός</item>
+        <item>εμού</item>
+        <item>αγριόχηνα</item>
+        <item>πάπια</item>
+        <item>χήνα</item>
+        <item>γάτα</item>
+        <item>στρουθοκάμηλος</item>
+        <item>ύαινα</item>
+        <item>γαλοπούλα</item>
+        <item>κροκόδειλος</item>
+        <item>αρκούδα</item>
+        <item>ακρίδα</item>
+        <item>ρακούν</item>
+        <item>πύρρουλας</item>
+        <item>κότσυφας</item>
+        <item>κουρούνα</item>
+        <item>λύγκας</item>
+        <item>φάλαινα</item>
+        <item>κογιότ</item>
+        <item>ποντίκι</item>
+        <item>βίσωνας</item>
+        <item>ίβις</item>
+        <item>ελάφι</item>
+        <item>μύγα</item>
+        <item>τσαλαπετεινός</item>
+        <item>χιμπατζής</item>
+        <item>ινδικό χοιρίδιο</item>
+        <item>βουτηχτάρι</item>
+        <item>παπαδίτσα</item>
+        <item>παπαγάλος κακατούα</item>
+        <item>κουνέλι</item>
+        <item>κοκκινολαίμης</item>
+        <item>σουρικάτα</item>
+        <item>σαμιαμίδι</item>
+        <item>τσακάλι</item>
+        <item>ινδικός βους</item>
+        <item>φασιανός</item>
+        <item>ουρακοτάγκος</item>
+        <item>χαμαιλέοντας</item>
+        <item>βούκερος</item>
+        <item>τυφλοπόντικας</item>
+        <item>υδρόχοιρος</item>
+        <item>όρκα</item>
+        <item>κούκος</item>
+        <item>σκαντζόχοιρος</item>
+        <item>φρατέρκουλα</item>
+        <item>ζαρκάδι</item>
+        <item>μέλισσα</item>
+        <item>φακόχοιρος ο κοινός</item>
+        <item>ρέα</item>
+        <item>προβατοκάμηλος</item>
+        <item>μπαμπουίνος</item>
+        <item>βίδρα</item>
+        <item>μακάκος</item>
+        <item>καναρίνι</item>
+        <item>βουβάλι</item>
+        <item>θαλάσσιος ίππος</item>
+        <item>παπαγαλάκι</item>
+        <item>ιαγουάρος</item>
+        <item>κουνάβι</item>
+        <item>καρακάξα</item>
+        <item>γίββων</item>
+        <item>χελώνα</item>
+        <item>λεοπάρδαλη</item>
+        <item>γύπας</item>
+        <item>πούμα</item>
+        <item>γεράκι</item>
+        <item>κόκκινο πάντα</item>
+        <item>μαγκούστα</item>
+        <item>γερανός</item>
+        <item>ταύρος</item>
+        <item>αρουραίος</item>
+        <item>μυοκάστορας</item>
+        <item>φραγκόκοτα</item>
+        <item>χάμστερ</item>
+        <item>τσιντσιλά</item>
+        <item>καζουαριος</item>
+        <item>νυχτερίδα</item>
+        <item>μπελούγκα</item>
+        <item>μεφίτης</item>
+        <item>ακανθόχοιρος</item>
+        <item>μυρμηγκοφάγος</item>
+        <item>δράκος του Κομόντο</item>
+        <item>αλπακά</item>
+        <item>βραδύπους</item>
+        <item>ορτύκι</item>
+        <item>αρμαντίλλο</item>
+        <item>κίσσα</item>
+        <item>λιβελούλα</item>
+        <item>ψαρόνι</item>
+        <item>αγρινό</item>
+    </array>
+</resources>

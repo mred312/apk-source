@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="5dp" android:layout_marginRight="20dp" android:layout_marginBottom="5dp">
+        <LinearLayout android:orientation="vertical" android:id="@+id/quit_dlg_message_layout" android:background="@android:color/background_light" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="47dp">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="10dp" android:paddingTop="35dp" android:paddingRight="10dp" android:paddingBottom="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+                <TextView android:textSize="20sp" android:gravity="center_horizontal" android:id="@+id/quit_dlg_text1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/rateQuestionTxt"/>
+                <ImageView android:gravity="center_horizontal" android:id="@+id/quit_dlg_image" android:layout_width="140dp" android:layout_height="wrap_content" android:src="@drawable/stars" android:contentDescription="@null"/>
+                <TextView android:textSize="18sp" android:textStyle="bold" android:gravity="center_horizontal" android:layout_gravity="center" android:id="@+id/quit_dlg_text2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/quitQuestionTxt"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <Button android:id="@+id/quitDlgButtonNo" android:background="@drawable/holo_button" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/noBtnTxt" android:layout_weight="0.3" style="@style/myHoloButton"/>
+                <Button android:id="@+id/quitDlgButtonRate" android:background="@drawable/holo_button" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/rateBtnTxt" android:layout_weight="0.24" style="@style/myHoloButton"/>
+                <Button android:id="@+id/quitDlgButtonYes" android:background="@drawable/holo_button" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/yesBtnTxt" android:layout_weight="0.3" style="@style/myHoloButton"/>
+            </LinearLayout>
+        </LinearLayout>
+        <RelativeLayout android:id="@+id/topBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+            <ImageView android:id="@+id/icon" android:layout_width="180dp" android:layout_height="90dp" android:src="@drawable/more_apps" android:contentDescription="@null"/>
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:background="@drawable/selectable_list_item" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/holoLightStyle">
+    <ImageView android:id="@+id/langListItemImage" android:background="#00dddddd" android:padding="0dp" android:layout_width="50dp" android:layout_height="31dp" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="@null"/>
+    <TextView android:textSize="16sp" android:id="@+id/langListItemName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+    <RadioButton android:id="@+id/langListItemChecked" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:longClickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+</RelativeLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_content_inset_with_nav">80dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8dp</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="animal_title_size_bottom">22dp</dimen>
+    <dimen name="animal_title_size_small">25dp</dimen>
+    <dimen name="button_mute_size">35dp</dimen>
+    <dimen name="gallery_arrow_top_and_button_arrows_sum">92dp</dimen>
+    <dimen name="gallery_arrow_top_height">15dp</dimen>
+    <dimen name="gallery_arrow_top_width">30dp</dimen>
+    <dimen name="images_animal_name_text_size">32dp</dimen>
+    <dimen name="images_arrow_button_size">70dp</dimen>
+    <dimen name="images_button_bellow_topbar_size">35dp</dimen>
+    <dimen name="images_button_close_webview_size">50dp</dimen>
+    <dimen name="images_button_on_topbar_size">35dp</dimen>
+    <dimen name="images_tools_button_size">60dp</dimen>
+    <dimen name="images_top_margin_menu">50dp</dimen>
+    <dimen name="main_flag_button_size">35dp</dimen>
+    <dimen name="main_group_button_size">60dp</dimen>
+    <dimen name="main_mute_button_size_land">50dp</dimen>
+    <dimen name="main_play_button_size">200dp</dimen>
+    <dimen name="main_title_size">400dp</dimen>
+    <dimen name="main_tools_big_button_size">60dp</dimen>
+    <dimen name="main_tools_small_button_size">52dp</dimen>
+    <dimen name="otherapp_icon_size">96dp</dimen>
+</resources>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>kráva</item>
+        <item>antilopa</item>
+        <item>gorila</item>
+        <item>žirafa</item>
+        <item>slon</item>
+        <item>hroch</item>
+        <item>lev</item>
+        <item>liška</item>
+        <item>klokan</item>
+        <item>tučňák</item>
+        <item>tygr</item>
+        <item>delfín</item>
+        <item>prase divoké</item>
+        <item>tuleň</item>
+        <item>gepard</item>
+        <item>vlk</item>
+        <item>zebra</item>
+        <item>žába</item>
+        <item>tukan</item>
+        <item>koala</item>
+        <item>kohout</item>
+        <item>komár</item>
+        <item>kůň</item>
+        <item>koza</item>
+        <item>nosorožec</item>
+        <item>včela</item>
+        <item>pes</item>
+        <item>pelikán</item>
+        <item>ovce</item>
+        <item>osel</item>
+        <item>orel</item>
+        <item>sova</item>
+        <item>svišť</item>
+        <item>prase domácí</item>
+        <item>lední medvěd</item>
+        <item>panda velká</item>
+        <item>veverka</item>
+        <item>velbloud</item>
+        <item>had</item>
+        <item>holub</item>
+        <item>strakapoud</item>
+        <item>ara</item>
+        <item>los evropský</item>
+        <item>slepice</item>
+        <item>kachna divoká</item>
+        <item>bobr</item>
+        <item>jak</item>
+        <item>havran</item>
+        <item>lemur</item>
+        <item>labuť</item>
+        <item>racek</item>
+        <item>vosa</item>
+        <item>páv</item>
+        <item>sob</item>
+        <item>vrabec</item>
+        <item>plameňák</item>
+        <item>čáp</item>
+        <item>volavka</item>
+        <item>emu</item>
+        <item>husa velká</item>
+        <item>kachna</item>
+        <item>husa</item>
+        <item>kočka</item>
+        <item>pštros</item>
+        <item>hyena</item>
+        <item>krocan</item>
+        <item>krokodýl</item>
+        <item>medvěd</item>
+        <item>kobylka zelená</item>
+        <item>mýval</item>
+        <item>hýl obecný</item>
+        <item>kos</item>
+        <item>vrána</item>
+        <item>rys</item>
+        <item>velryba</item>
+        <item>kojot</item>
+        <item>myš</item>
+        <item>bizon</item>
+        <item>ibis</item>
+        <item>jelen</item>
+        <item>moucha</item>
+        <item>dudek</item>
+        <item>šimpanz</item>
+        <item>morče</item>
+        <item>potápka</item>
+        <item>sýkora</item>
+        <item>kakadu</item>
+        <item>králík</item>
+        <item>červenka</item>
+        <item>surikata</item>
+        <item>gekon</item>
+        <item>šakal</item>
+        <item>zebu</item>
+        <item>bažant</item>
+        <item>orangutan</item>
+        <item>chameleon</item>
+        <item>zoborožec</item>
+        <item>krtek</item>
+        <item>kapybara</item>
+        <item>kosatka dravá</item>
+        <item>kukačka</item>
+        <item>ježek</item>
+        <item>papuchalk bělobradý</item>
+        <item>srnec obecný</item>
+        <item>čmelák</item>
+        <item>prase savanové</item>
+        <item>nandu</item>
+        <item>lama</item>
+        <item>pavián</item>
+        <item>vydra</item>
+        <item>makak</item>
+        <item>kanár divoký</item>
+        <item>buvol</item>
+        <item>mrož</item>
+        <item>andulka vlnkovaná</item>
+        <item>jaguár</item>
+        <item>fretka</item>
+        <item>straka</item>
+        <item>gibon</item>
+        <item>želva</item>
+        <item>levhart</item>
+        <item>sup</item>
+        <item>puma</item>
+        <item>sokol</item>
+        <item>panda červená</item>
+        <item>mangusta</item>
+        <item>jeřáb</item>
+        <item>býk</item>
+        <item>krysa</item>
+        <item>nutrie</item>
+        <item>perlička</item>
+        <item>křeček</item>
+        <item>činčila</item>
+        <item>kasuár</item>
+        <item>netopýr</item>
+        <item>běluha severní</item>
+        <item>skunk</item>
+        <item>dikobraz</item>
+        <item>mravenečník</item>
+        <item>varan komodský</item>
+        <item>alpaka</item>
+        <item>lenochod</item>
+        <item>křepelka</item>
+        <item>pásovec</item>
+        <item>sojka</item>
+        <item>vážka</item>
+        <item>špaček obecný</item>
+        <item>muflon</item>
+    </array>
+</resources>

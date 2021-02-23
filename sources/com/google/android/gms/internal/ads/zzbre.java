@@ -1,0 +1,10 @@
+package com.google.android.gms.internal.ads;
+
+/* compiled from: com.google.android.gms:play-services-ads@@19.5.0 */
+public interface zzbre<AdT> {
+    zzboz<AdT> zzagh();
+
+    zzdnn zzago();
+
+    zzdki zzagp();
+}

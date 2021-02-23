@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>vacă</item>
+        <item>antilopă</item>
+        <item>gorilă</item>
+        <item>girafă</item>
+        <item>elefant</item>
+        <item>hipopotam</item>
+        <item>leu</item>
+        <item>vulpe</item>
+        <item>cangur</item>
+        <item>pinguin</item>
+        <item>tigru</item>
+        <item>delfin</item>
+        <item>mistreţ</item>
+        <item>focă</item>
+        <item>ghepard</item>
+        <item>lup</item>
+        <item>zebră</item>
+        <item>broască</item>
+        <item>tucan</item>
+        <item>koala</item>
+        <item>cocoș</item>
+        <item>țânțar</item>
+        <item>cal</item>
+        <item>capră</item>
+        <item>rinocer</item>
+        <item>albină</item>
+        <item>câine</item>
+        <item>pelican</item>
+        <item>oaie</item>
+        <item>măgar</item>
+        <item>vultur</item>
+        <item>bufniţă</item>
+        <item>marmotă</item>
+        <item>porc</item>
+        <item>urs polar</item>
+        <item>panda mare</item>
+        <item>veveriţă</item>
+        <item>cămilă</item>
+        <item>șarpe</item>
+        <item>porumbel</item>
+        <item>ciocănitoare</item>
+        <item>ara</item>
+        <item>elan</item>
+        <item>găină</item>
+        <item>raţă sălbatică</item>
+        <item>castor</item>
+        <item>iac</item>
+        <item>corb</item>
+        <item>lemur</item>
+        <item>lebădă</item>
+        <item>pescăruş</item>
+        <item>viespe</item>
+        <item>păun</item>
+        <item>ren</item>
+        <item>vrabie</item>
+        <item>flamingo</item>
+        <item>barză</item>
+        <item>stârc</item>
+        <item>emu</item>
+        <item>gâscă sălbatică</item>
+        <item>raţă</item>
+        <item>gâscă</item>
+        <item>pisică</item>
+        <item>struţ</item>
+        <item>hienă</item>
+        <item>curcan</item>
+        <item>crocodil</item>
+        <item>urs</item>
+        <item>lăcustă</item>
+        <item>raton</item>
+        <item>mugurar</item>
+        <item>mierlă</item>
+        <item>cioară</item>
+        <item>râs</item>
+        <item>balenă</item>
+        <item>coiot</item>
+        <item>șoarece</item>
+        <item>bizon</item>
+        <item>ibis</item>
+        <item>cerb</item>
+        <item>muscă</item>
+        <item>pupăză</item>
+        <item>cimpanzeu</item>
+        <item>porcușor de Guineea</item>
+        <item>corcodel</item>
+        <item>piţigoi</item>
+        <item>cacadu</item>
+        <item>iepure</item>
+        <item>măcăleandru</item>
+        <item>suricată</item>
+        <item>gecko</item>
+        <item>șacal</item>
+        <item>zebu</item>
+        <item>fazan</item>
+        <item>urangutan</item>
+        <item>cameleon</item>
+        <item>pasăre rinocer</item>
+        <item>cârtiță</item>
+        <item>capibara</item>
+        <item>orcă</item>
+        <item>cuc</item>
+        <item>arici</item>
+        <item>papagal de mare</item>
+        <item>căprior</item>
+        <item>bondar</item>
+        <item>porc alergător</item>
+        <item>nandu</item>
+        <item>lamă</item>
+        <item>babuin</item>
+        <item>vidră</item>
+        <item>macac</item>
+        <item>canar</item>
+        <item>bivol</item>
+        <item>morsă</item>
+        <item>peruș</item>
+        <item>jaguar</item>
+        <item>nevăstuică</item>
+        <item>coţofană</item>
+        <item>gibon</item>
+        <item>broască-țestoasă</item>
+        <item>leopard</item>
+        <item>vultur</item>
+        <item>pumă</item>
+        <item>șoim</item>
+        <item>panda roșu</item>
+        <item>mangustă</item>
+        <item>cocor</item>
+        <item>taur</item>
+        <item>şobolan</item>
+        <item>nutrie</item>
+        <item>bibilică</item>
+        <item>hamster</item>
+        <item>șinșilă</item>
+        <item>cazuar</item>
+        <item>liliac</item>
+        <item>belugă</item>
+        <item>sconcs</item>
+        <item>porc spinos</item>
+        <item>furnicar</item>
+        <item>dragon de Komodo</item>
+        <item>alpaca</item>
+        <item>leneș</item>
+        <item>prepeliță</item>
+        <item>tatu</item>
+        <item>gaiță</item>
+        <item>libelulă</item>
+        <item>graur</item>
+        <item>muflon</item>
+    </array>
+</resources>

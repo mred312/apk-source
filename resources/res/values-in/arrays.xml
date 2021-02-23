@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>sapi</item>
+        <item>antelop</item>
+        <item>gorila</item>
+        <item>jerapah</item>
+        <item>gajah</item>
+        <item>kuda nil</item>
+        <item>singa</item>
+        <item>rubah</item>
+        <item>kanguru</item>
+        <item>pinguin</item>
+        <item>harimau</item>
+        <item>lumba-lumba</item>
+        <item>babi hutan</item>
+        <item>anjing laut</item>
+        <item>citah</item>
+        <item>serigala</item>
+        <item>zebra</item>
+        <item>katak</item>
+        <item>tukan</item>
+        <item>koala</item>
+        <item>ayam</item>
+        <item>nyamuk</item>
+        <item>kuda</item>
+        <item>kambing</item>
+        <item>badak</item>
+        <item>lebah</item>
+        <item>anjing</item>
+        <item>pelikan</item>
+        <item>domba</item>
+        <item>keledai</item>
+        <item>elang</item>
+        <item>burung hantu</item>
+        <item>marmut</item>
+        <item>babi</item>
+        <item>beruang kutub</item>
+        <item>panda raksasa</item>
+        <item>tupai</item>
+        <item>unta</item>
+        <item>ular</item>
+        <item>merpati</item>
+        <item>burung pelatuk</item>
+        <item>ara</item>
+        <item>rusa besar</item>
+        <item>ayam betina</item>
+        <item>entok</item>
+        <item>berang-berang</item>
+        <item>yak</item>
+        <item>gagak</item>
+        <item>lemur</item>
+        <item>angsa</item>
+        <item>camar</item>
+        <item>tawon</item>
+        <item>merak</item>
+        <item>rusa</item>
+        <item>burung pipit</item>
+        <item>flamingo</item>
+        <item>bangau</item>
+        <item>heron</item>
+        <item>emu</item>
+        <item>angsa liar</item>
+        <item>bebek</item>
+        <item>angsa</item>
+        <item>kucing</item>
+        <item>burung unta</item>
+        <item>hyena</item>
+        <item>kalkun</item>
+        <item>buaya</item>
+        <item>beruang</item>
+        <item>belalang</item>
+        <item>rakun</item>
+        <item>bullfinch</item>
+        <item>blackbird</item>
+        <item>burung gagak</item>
+        <item>lynx</item>
+        <item>paus</item>
+        <item>coyote</item>
+        <item>tikus</item>
+        <item>bison</item>
+        <item>ibis</item>
+        <item>rusa</item>
+        <item>lalat</item>
+        <item>meragai</item>
+        <item>simpanse</item>
+        <item>tikus belanda</item>
+        <item>burung grebe</item>
+        <item>tit</item>
+        <item>kakatua</item>
+        <item>kelinci</item>
+        <item>robin</item>
+        <item>meerkat</item>
+        <item>tokek</item>
+        <item>serigala</item>
+        <item>sapi india</item>
+        <item>burung pegar</item>
+        <item>orangutan</item>
+        <item>bunglon</item>
+        <item>rangkong</item>
+        <item>tikus tanah</item>
+        <item>kapibara</item>
+        <item>paus pembunuh</item>
+        <item>kuko</item>
+        <item>landak</item>
+        <item>pupin</item>
+        <item>rusa roe</item>
+        <item>lebah</item>
+        <item>warthog</item>
+        <item>burung unta</item>
+        <item>llama</item>
+        <item>babun</item>
+        <item>berang-berang</item>
+        <item>kera</item>
+        <item>burung kenari</item>
+        <item>kerbau</item>
+        <item>walrus</item>
+        <item>burung kesturi</item>
+        <item>jaguar</item>
+        <item>musang</item>
+        <item>murai</item>
+        <item>owa</item>
+        <item>kura-kura</item>
+        <item>macan tutul</item>
+        <item>burung hering</item>
+        <item>puma</item>
+        <item>alap-alap</item>
+        <item>panda merah</item>
+        <item>garangan</item>
+        <item>burung jenjang</item>
+        <item>banteng</item>
+        <item>tikus</item>
+        <item>tikus sungai</item>
+        <item>ayam guinea</item>
+        <item>hamster</item>
+        <item>chinchilla</item>
+        <item>kasuari</item>
+        <item>kelelawar</item>
+        <item>paus beluga</item>
+        <item>sigung</item>
+        <item>landak</item>
+        <item>tenggiling</item>
+        <item>komodo</item>
+        <item>alpaka</item>
+        <item>kungkang</item>
+        <item>burung puyuh</item>
+        <item>armadillo</item>
+        <item>burung jay</item>
+        <item>capung</item>
+        <item>burung jalak</item>
+        <item>mouflon</item>
+    </array>
+</resources>

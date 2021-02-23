@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>פרה</item>
+        <item>אנטילופה</item>
+        <item>גורילה</item>
+        <item>ג&apos;ירף</item>
+        <item>פיל</item>
+        <item>היפופוטם</item>
+        <item>אריה</item>
+        <item>שועל</item>
+        <item>קנגרו</item>
+        <item>פינגווין</item>
+        <item>טיגריס</item>
+        <item>דולפין</item>
+        <item>חזיר בר</item>
+        <item>כלב ים</item>
+        <item>צ&apos;יטה</item>
+        <item>זאב</item>
+        <item>זברה</item>
+        <item>צפרדע</item>
+        <item>טוקן</item>
+        <item>קואלה</item>
+        <item>תרנגול</item>
+        <item>יתוש</item>
+        <item>סוס</item>
+        <item>עז</item>
+        <item>קרנף</item>
+        <item>דבורה</item>
+        <item>כלב</item>
+        <item>שקנאי</item>
+        <item>כבשה</item>
+        <item>חמור</item>
+        <item>נשר</item>
+        <item>ינשוף</item>
+        <item>מרמיטה</item>
+        <item>חזיר</item>
+        <item>דוב קוטב</item>
+        <item>פנדה ענקית</item>
+        <item>סנאי</item>
+        <item>גמל</item>
+        <item>נחש</item>
+        <item>יונה</item>
+        <item>נקר</item>
+        <item>תוכי ארה</item>
+        <item>אייל קורא</item>
+        <item>תרנגולת</item>
+        <item>ברווז בר</item>
+        <item>בונה</item>
+        <item>יאק</item>
+        <item>עורב</item>
+        <item>למור</item>
+        <item>ברבור</item>
+        <item>שחף</item>
+        <item>צרעה</item>
+        <item>טווס</item>
+        <item>אייל</item>
+        <item>דרור</item>
+        <item>פלמינגו</item>
+        <item>חסידה</item>
+        <item>אנפה</item>
+        <item>אמו</item>
+        <item>אווז בר</item>
+        <item>ברווז</item>
+        <item>אווז</item>
+        <item>חתול</item>
+        <item>יען</item>
+        <item>צבוע</item>
+        <item>הודו</item>
+        <item>קרוקודיל</item>
+        <item>דוב</item>
+        <item>חרגול</item>
+        <item>דביבון</item>
+        <item>אדמונית</item>
+        <item>שחרור</item>
+        <item>עורב אפור</item>
+        <item>לינקס</item>
+        <item>לוויתן</item>
+        <item>זאב ערבות</item>
+        <item>עכבר</item>
+        <item>ביזון</item>
+        <item>מגלן</item>
+        <item>צבי</item>
+        <item>זבוב</item>
+        <item>דוכיפת</item>
+        <item>שימפנזה</item>
+        <item>שרקן</item>
+        <item>טבלן</item>
+        <item>ירגזי</item>
+        <item>קקדו</item>
+        <item>ארנב</item>
+        <item>אדום חזה</item>
+        <item>סוריקטה</item>
+        <item>גקו</item>
+        <item>תן</item>
+        <item>זבו</item>
+        <item>פסיון</item>
+        <item>אורנגאוטן</item>
+        <item>זיקית</item>
+        <item>קרנף</item>
+        <item>חפרפרת</item>
+        <item>קפיבארה</item>
+        <item>לוויתן קטלן</item>
+        <item>קוקיה</item>
+        <item>קיפוד</item>
+        <item>תוכי ים</item>
+        <item>עופר</item>
+        <item>דבור</item>
+        <item>חזיר יבלות</item>
+        <item>ריאה</item>
+        <item>לאמה</item>
+        <item>בבון</item>
+        <item>לוטרה</item>
+        <item>מקוק</item>
+        <item>קנרית</item>
+        <item>בפאלו</item>
+        <item>ניבתן</item>
+        <item>תוכון מצוי</item>
+        <item>יגואר</item>
+        <item>חמוס</item>
+        <item>עורב זנבתן</item>
+        <item>גיבון</item>
+        <item>צב</item>
+        <item>נמר</item>
+        <item>נשר</item>
+        <item>פומה</item>
+        <item>בז</item>
+        <item>פנדה אדומה</item>
+        <item>נמייה</item>
+        <item>עגור</item>
+        <item>שור</item>
+        <item>עכברוש</item>
+        <item>נוטרייה</item>
+        <item>פנינייה</item>
+        <item>אוגר</item>
+        <item>צ&apos;ינצ&apos;ילה</item>
+        <item>קזואר</item>
+        <item>עטלף</item>
+        <item>לבנתן</item>
+        <item>בואש</item>
+        <item>דורבן</item>
+        <item>דוב נמלים</item>
+        <item>דרקון קומודו</item>
+        <item>אלפקה</item>
+        <item>עצלן</item>
+        <item>שליו</item>
+        <item>ארמדיל</item>
+        <item>עורבני</item>
+        <item>שפירית</item>
+        <item>זרזיר</item>
+        <item>מופלון</item>
+    </array>
+</resources>

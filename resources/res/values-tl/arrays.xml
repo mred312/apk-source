@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>baka</item>
+        <item>antilope</item>
+        <item>gorilya</item>
+        <item>dyirap</item>
+        <item>elepante</item>
+        <item>hippo</item>
+        <item>leon</item>
+        <item>soro</item>
+        <item>kanggaro</item>
+        <item>penguwin</item>
+        <item>tigre</item>
+        <item>lumba-lumba</item>
+        <item>bulugan</item>
+        <item>seal</item>
+        <item>cheetah</item>
+        <item>lobo</item>
+        <item>sebra</item>
+        <item>palaka</item>
+        <item>tokan</item>
+        <item>koala</item>
+        <item>tandang</item>
+        <item>lamok</item>
+        <item>kabayo</item>
+        <item>kambing</item>
+        <item>raynoseros</item>
+        <item>pukyutan</item>
+        <item>aso</item>
+        <item>pelikan</item>
+        <item>tupa</item>
+        <item>buriko</item>
+        <item>agila</item>
+        <item>kuwago</item>
+        <item>marmot</item>
+        <item>baboy</item>
+        <item>osong puti</item>
+        <item>higanteng panda</item>
+        <item>ardilya</item>
+        <item>kamelyo</item>
+        <item>ahas</item>
+        <item>kalapati</item>
+        <item>tariktik</item>
+        <item>ara</item>
+        <item>moose</item>
+        <item>inahing manok</item>
+        <item>ligaw na itik</item>
+        <item>kastor</item>
+        <item>yak</item>
+        <item>uwak</item>
+        <item>lemur</item>
+        <item>gansa</item>
+        <item>ibong dagat</item>
+        <item>putakti</item>
+        <item>pabo real</item>
+        <item>usang reno</item>
+        <item>maya</item>
+        <item>flamingo</item>
+        <item>tagak</item>
+        <item>bakaw</item>
+        <item>emu</item>
+        <item>ligaw na gansa</item>
+        <item>pato</item>
+        <item>gansa</item>
+        <item>pusa</item>
+        <item>abestrus</item>
+        <item>hyena</item>
+        <item>pabo</item>
+        <item>buwaya</item>
+        <item>oso</item>
+        <item>tipaklong</item>
+        <item>racoon</item>
+        <item>bansino</item>
+        <item>martinez</item>
+        <item>nakatalukbong na uwak</item>
+        <item>musang</item>
+        <item>balyena</item>
+        <item>koyote</item>
+        <item>maliit na daga</item>
+        <item>bison</item>
+        <item>ibis</item>
+        <item>usa</item>
+        <item>langaw</item>
+        <item>hoopoe</item>
+        <item>tsimpanse</item>
+        <item>kunehilyo</item>
+        <item>grib</item>
+        <item>tit</item>
+        <item>kokatu</item>
+        <item>kuneho</item>
+        <item>robin</item>
+        <item>meerkat</item>
+        <item>tuko</item>
+        <item>jackal</item>
+        <item>zebu</item>
+        <item>benggala</item>
+        <item>orangutan</item>
+        <item>hunyango</item>
+        <item>kalaw</item>
+        <item>mowl</item>
+        <item>kapibara</item>
+        <item>orca</item>
+        <item>kuku</item>
+        <item>parkupino</item>
+        <item>puffin</item>
+        <item>usá</item>
+        <item>bubuyog</item>
+        <item>warthog</item>
+        <item>rhea</item>
+        <item>lama</item>
+        <item>tsonggo</item>
+        <item>otter</item>
+        <item>makak</item>
+        <item>kanaryo</item>
+        <item>kalabaw</item>
+        <item>walrus</item>
+        <item>budgerigar</item>
+        <item>jaguar</item>
+        <item>ferret</item>
+        <item>magpie</item>
+        <item>gibon</item>
+        <item>pagong</item>
+        <item>leopardo</item>
+        <item>buwitre</item>
+        <item>puma</item>
+        <item>palkon</item>
+        <item>pulang panda</item>
+        <item>monggus</item>
+        <item>tagak</item>
+        <item>toro</item>
+        <item>malaking daga</item>
+        <item>nutrya</item>
+        <item>labuyo ng Guinea</item>
+        <item>hamster</item>
+        <item>tsintsila</item>
+        <item>cassowary</item>
+        <item>paniki</item>
+        <item>beluga</item>
+        <item>mopeta</item>
+        <item>landak</item>
+        <item>anteater</item>
+        <item>komodo dragon</item>
+        <item>alpaka</item>
+        <item>sloth</item>
+        <item>pugo</item>
+        <item>armadillo</item>
+        <item>ibon ng dyey</item>
+        <item>tutubi</item>
+        <item>martines</item>
+        <item>mouflon</item>
+    </array>
+</resources>

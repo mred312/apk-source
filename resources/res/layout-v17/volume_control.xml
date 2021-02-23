@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ToggleButton android:id="@+id/sys_volume_control_mute" android:background="@drawable/mute_button_mini" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="5dp" android:textOn="" android:textOff="" android:layout_alignParentLeft="true"/>
+    <SeekBar android:id="@+id/sys_volume_control" android:layout_width="200dp" android:layout_height="wrap_content" android:layout_toRightOf="@+id/sys_volume_control_mute" android:layout_toEndOf="@+id/sys_volume_control_mute"/>
+    <ToggleButton android:id="@+id/player_volume_control_mute" android:background="@drawable/media_button" android:visibility="gone" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="5dp" android:layout_marginTop="7dp" android:textOn="" android:textOff="" android:layout_below="@+id/sys_volume_control_mute" android:layout_alignParentLeft="true"/>
+    <SeekBar android:id="@+id/player_volume_control" android:visibility="gone" android:layout_width="200dp" android:layout_height="wrap_content" android:layout_marginTop="7dp" android:layout_toRightOf="@+id/player_volume_control_mute" android:layout_below="@+id/sys_volume_control" android:layout_toEndOf="@+id/player_volume_control_mute"/>
+</merge>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>ఆవు</item>
+        <item>జింక</item>
+        <item>గొరిల్లా</item>
+        <item>జిరాఫీ</item>
+        <item>ఏనుగు</item>
+        <item>నీటి ఏనుగు</item>
+        <item>సింహం</item>
+        <item>నక్క</item>
+        <item>కంగారు</item>
+        <item>పెంగ్విన్</item>
+        <item>పులి</item>
+        <item>డాల్ఫిన్</item>
+        <item>మగ పంది</item>
+        <item>సీల్</item>
+        <item>చిరుత</item>
+        <item>తోడేలు</item>
+        <item>చారల గుర్రము</item>
+        <item>కప్ప</item>
+        <item>టుకాన్</item>
+        <item>కోలా</item>
+        <item>కోడి పుంజు</item>
+        <item>దోమ</item>
+        <item>గుర్రం</item>
+        <item>మేక</item>
+        <item>ఖడ్గమృగం</item>
+        <item>తేనెటీగ</item>
+        <item>కుక్క</item>
+        <item>గూడకొంగ</item>
+        <item>గొర్రె</item>
+        <item>గాడిద</item>
+        <item>డేగ</item>
+        <item>గుడ్లగూబ</item>
+        <item>పెద్ద ఎలుక లాంటి జంతువు</item>
+        <item>పంది</item>
+        <item>ధ్రువ ఎలుగుబంటి</item>
+        <item>పెద్ద పాండా</item>
+        <item>ఉడుత</item>
+        <item>ఒంటె</item>
+        <item>పాము</item>
+        <item>పావురం</item>
+        <item>వడ్రంగిపిట్ట</item>
+        <item>అరా</item>
+        <item>దుప్పి</item>
+        <item>కోడి</item>
+        <item>అడవి బాతు</item>
+        <item>బీవర్</item>
+        <item>జడల బర్రె</item>
+        <item>కాకి</item>
+        <item>లెమర్</item>
+        <item>హంస</item>
+        <item>సీగల్</item>
+        <item>కందిరీగ</item>
+        <item>నెమలి</item>
+        <item>రెయిన్ డీర్</item>
+        <item>పిచుక</item>
+        <item>రాజహంస</item>
+        <item>పొడుగు ముక్కు పొడుగు కాళ్లుగల కొంగ జాతి పక్షి</item>
+        <item>నారాయణపక్షి</item>
+        <item>ఎమూ</item>
+        <item>వైల్డ్ గూస్</item>
+        <item>బాతు</item>
+        <item>గూస్</item>
+        <item>పిల్లి</item>
+        <item>ఉష్ట్రపక్షి</item>
+        <item>దుమ్ములగొండి</item>
+        <item>సీమ కోడి</item>
+        <item>మొసలి</item>
+        <item>ఎలుగుబంటి</item>
+        <item>మిడత</item>
+        <item>రక్కూన్</item>
+        <item>బుల్ ఫించ్</item>
+        <item>నల్లని పక్షి</item>
+        <item>పడగ కాకి</item>
+        <item>పెద్ద అడవిపిల్లి</item>
+        <item>తిమింగలం</item>
+        <item>తోడేలు</item>
+        <item>ఎలుక</item>
+        <item>అడవిదున్న</item>
+        <item>చిత్తడి నేలల్లో ఉండే కొంగ వంటి పక్షి</item>
+        <item>జింక</item>
+        <item>ఈగ</item>
+        <item>హోపోయ్</item>
+        <item>చింపాంజీ</item>
+        <item>గినియా పంది</item>
+        <item>గ్రేబే</item>
+        <item>టిట్మౌస్</item>
+        <item>కాకాటో</item>
+        <item>కుందేలు</item>
+        <item>రాబిన్</item>
+        <item>మీర్కాట్</item>
+        <item>తొండ</item>
+        <item>నక్క</item>
+        <item>పెద్ద మూపురము కలిగిన ఎద్దు</item>
+        <item>నెమలి</item>
+        <item>పోంగిడే అను జాతికి చెందిన మానవ కోతి</item>
+        <item>ఊసరవెల్లి</item>
+        <item>హార్న్బిల్</item>
+        <item>మోల్</item>
+        <item>కాపిబర</item>
+        <item>ఓర్కా</item>
+        <item>కోకిల</item>
+        <item>ముళ్ల పంది</item>
+        <item>పఫ్ఫిన్</item>
+        <item>రో</item>
+        <item>బంబుల్-బీ</item>
+        <item>పంది</item>
+        <item>రియా</item>
+        <item>లామా</item>
+        <item>బబూన్</item>
+        <item>ఓటర్</item>
+        <item>వానరం</item>
+        <item>కానరీ</item>
+        <item>గేదె</item>
+        <item>నీటి గుర్రము</item>
+        <item>బద్గేరిగర్</item>
+        <item>జాగ్వర్</item>
+        <item>మచ్చలు (ముంగిస వంటి యొక జంతువు)</item>
+        <item>మాగ్పైయి</item>
+        <item>గిబ్బన్</item>
+        <item>సముద్రపు తాబేలు</item>
+        <item>చిరుత</item>
+        <item>రాబందు</item>
+        <item>చిరుతపులి</item>
+        <item>బైరియనుపక్షి</item>
+        <item>రెడ్ పాండా</item>
+        <item>ముంగిస</item>
+        <item>కొంగ</item>
+        <item>ఎద్దు</item>
+        <item>ఎలుక</item>
+        <item>కాయపు</item>
+        <item>గినియా పక్షులు</item>
+        <item>చిట్టెలుక</item>
+        <item>చిన్చిల్లా</item>
+        <item>కాసోవరి</item>
+        <item>గబ్బిలము</item>
+        <item>బెలుగ</item>
+        <item>ఉడుము</item>
+        <item>పందికొక్కు</item>
+        <item>అన్తెఅతెర్</item>
+        <item>కొమోడో డ్రాగన్</item>
+        <item>అల్పాకా</item>
+        <item>స్లోత్</item>
+        <item>కోలంకి రకం పిట్ట</item>
+        <item>అలుక</item>
+        <item>జే</item>
+        <item>తూనీగ</item>
+        <item>పిట్ట</item>
+        <item>మౌఫ్లన్</item>
+    </array>
+</resources>

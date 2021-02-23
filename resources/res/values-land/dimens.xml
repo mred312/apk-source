@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="ad_native_banner_icon_size">38dp</dimen>
+    <dimen name="animal_title_size_bottom">12dp</dimen>
+    <dimen name="animal_title_size_small">18dp</dimen>
+    <dimen name="bottom_gallery_layout_weight">0.85</dimen>
+    <dimen name="images_top_margin_menu">5dp</dimen>
+</resources>

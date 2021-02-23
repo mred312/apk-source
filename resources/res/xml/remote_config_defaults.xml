@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <entry>
+        <key>quit_interstitial_enable
+        </key>
+        <value>false
+        </value>
+    </entry>
+    <entry>
+        <key>transition_interstitial_enable
+        </key>
+        <value>false
+        </value>
+    </entry>
+    <entry>
+        <key>lower_banner_enable
+        </key>
+        <value>true
+        </value>
+    </entry>
+    <entry>
+        <key>change_smart_banner_to_banner
+        </key>
+        <value>false
+        </value>
+    </entry>
+    <entry>
+        <key>change_smart_banner_to_native_banner
+        </key>
+        <value>false
+        </value>
+    </entry>
+    <entry>
+        <key>show_adaptive_banner
+        </key>
+        <value>false
+        </value>
+    </entry>
+    <entry>
+        <key>lower_banner_id_choice
+        </key>
+        <value>0
+        </value>
+    </entry>
+</defaultsMap>

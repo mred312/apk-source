@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>गाय</item>
+        <item>हिरन</item>
+        <item>गोरिल्ला</item>
+        <item>जिराफ़</item>
+        <item>हाथी</item>
+        <item>दरियाई घोड़ा</item>
+        <item>शेर</item>
+        <item>लोमड़ी</item>
+        <item>कंगारू</item>
+        <item>पेंगुइन</item>
+        <item>बाघ</item>
+        <item>डॉलफिन</item>
+        <item>जंगली सुअर</item>
+        <item>सील</item>
+        <item>चीता</item>
+        <item>भेड़िया</item>
+        <item>ज़ेबरा</item>
+        <item>मेंढक</item>
+        <item>टूकेन</item>
+        <item>कोआला</item>
+        <item>मुर्गा</item>
+        <item>मच्छर</item>
+        <item>घोड़ा</item>
+        <item>बकरी</item>
+        <item>गैंडा</item>
+        <item>मधुमक्खी</item>
+        <item>कुत्ता</item>
+        <item>हवासील</item>
+        <item>भेड़</item>
+        <item>गधा</item>
+        <item>चील</item>
+        <item>उल्लू</item>
+        <item>मार्मट</item>
+        <item>सूअर</item>
+        <item>ध्रुवीय भालू</item>
+        <item>विशाल पांडा</item>
+        <item>गिलहरी</item>
+        <item>ऊंट</item>
+        <item>साँप</item>
+        <item>कबूतर</item>
+        <item>कठफोड़वा</item>
+        <item>तोता</item>
+        <item>अमरीकी हिरण</item>
+        <item>मुर्गी</item>
+        <item>जंगली बत्तख</item>
+        <item>ऊदबिलाव</item>
+        <item>याक</item>
+        <item>कौआ</item>
+        <item>बंदर</item>
+        <item>हंस</item>
+        <item>समुद्री गल</item>
+        <item>ततैया</item>
+        <item>मोर</item>
+        <item>बारहसिंगा</item>
+        <item>गौरैया</item>
+        <item>मराल</item>
+        <item>सारस</item>
+        <item>बगुला</item>
+        <item>एमू</item>
+        <item>जंगली हंस</item>
+        <item>बतख</item>
+        <item>कलहंस</item>
+        <item>बिल्ली</item>
+        <item>शुतुरमुर्ग</item>
+        <item>लकड़बग्घा</item>
+        <item>टर्की</item>
+        <item>मगरमच्छ</item>
+        <item>भालू</item>
+        <item>टिड्डा</item>
+        <item>रैकून</item>
+        <item>बुलफिंच</item>
+        <item>कस्तूरा</item>
+        <item>काग</item>
+        <item>बनबिलाव</item>
+        <item>व्हेल</item>
+        <item>कोयोट</item>
+        <item>चुहिया</item>
+        <item>गवल</item>
+        <item>बुज्जा</item>
+        <item>हिरण</item>
+        <item>मक्खी</item>
+        <item>हुपु</item>
+        <item>चिम्पैंजी</item>
+        <item>गिनी सुअर</item>
+        <item>वंजुल</item>
+        <item>फुदकी</item>
+        <item>काकातुआ</item>
+        <item>खरगोश</item>
+        <item>रॉबिन</item>
+        <item>मीरकट</item>
+        <item>छिपकली</item>
+        <item>सियार</item>
+        <item>ज़ेबू</item>
+        <item>तीतर</item>
+        <item>आरंगुटान</item>
+        <item>गिरगिट</item>
+        <item>धनेश</item>
+        <item>छछूंदर</item>
+        <item>कैपीबारा</item>
+        <item>ओर्का</item>
+        <item>कोयल</item>
+        <item>साही</item>
+        <item>पितरेल</item>
+        <item>हिरनी</item>
+        <item>भौंरा</item>
+        <item>वरथॉग</item>
+        <item>रिया</item>
+        <item>लामा</item>
+        <item>लंगूर</item>
+        <item>ऊद</item>
+        <item>मैकाक</item>
+        <item>पीतचटकी</item>
+        <item>भैंस</item>
+        <item>दरियाई गाय</item>
+        <item>बजरीगार</item>
+        <item>जैगुआर</item>
+        <item>गंधबिलाव</item>
+        <item>मैगपाई</item>
+        <item>गिबन</item>
+        <item>कछुआ</item>
+        <item>तेंदुआ</item>
+        <item>गिद्ध</item>
+        <item>बिलाव</item>
+        <item>बाज़</item>
+        <item>लाल पांडा</item>
+        <item>नेवला</item>
+        <item>सारस</item>
+        <item>बैल</item>
+        <item>चूहा</item>
+        <item>समुद्री चूहा</item>
+        <item>गिनी मुर्गा</item>
+        <item>हैम्स्टर</item>
+        <item>चिनचीला</item>
+        <item>कसोवरी</item>
+        <item>चमगादड़</item>
+        <item>सफ़ेद व्हेल</item>
+        <item>स्कंक</item>
+        <item>साही</item>
+        <item>चींटीखोर</item>
+        <item>कोमोडो ड्रैगन</item>
+        <item>अल्पाका</item>
+        <item>स्लॉथ</item>
+        <item>बटेर</item>
+        <item>वर्मीो</item>
+        <item>नीलकंठ</item>
+        <item>व्याध पतंग</item>
+        <item>सारिका</item>
+        <item>जंगली भेड़</item>
+    </array>
+</resources>

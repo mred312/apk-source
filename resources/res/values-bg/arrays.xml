@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>крава</item>
+        <item>антилопа</item>
+        <item>горила</item>
+        <item>жираф</item>
+        <item>слон</item>
+        <item>хипопотам</item>
+        <item>лъв</item>
+        <item>лисица</item>
+        <item>кенгуру</item>
+        <item>пингвин</item>
+        <item>тигър</item>
+        <item>делфин</item>
+        <item>дива свиня</item>
+        <item>тюлен</item>
+        <item>гепард</item>
+        <item>вълк</item>
+        <item>зебра</item>
+        <item>жаба</item>
+        <item>тукан</item>
+        <item>коала</item>
+        <item>петел</item>
+        <item>комар</item>
+        <item>кон</item>
+        <item>коза</item>
+        <item>носорог</item>
+        <item>пчела</item>
+        <item>куче</item>
+        <item>пеликан</item>
+        <item>овца</item>
+        <item>магаре</item>
+        <item>орел</item>
+        <item>сова</item>
+        <item>мармот</item>
+        <item>свиня</item>
+        <item>полярна мечка</item>
+        <item>голяма панда</item>
+        <item>катерица</item>
+        <item>камила</item>
+        <item>змия</item>
+        <item>гълъб</item>
+        <item>кълвач</item>
+        <item>ара</item>
+        <item>лос</item>
+        <item>кокошка</item>
+        <item>дива патица</item>
+        <item>бобър</item>
+        <item>як</item>
+        <item>гарван</item>
+        <item>лемур</item>
+        <item>лебед</item>
+        <item>чайка</item>
+        <item>стършел</item>
+        <item>паун</item>
+        <item>северен елен</item>
+        <item>врабче</item>
+        <item>фламинго</item>
+        <item>щъркел</item>
+        <item>чапла</item>
+        <item>ему</item>
+        <item>дива гъска</item>
+        <item>патица</item>
+        <item>гъска</item>
+        <item>котка</item>
+        <item>щраус</item>
+        <item>хиена</item>
+        <item>пуйка</item>
+        <item>крокодил</item>
+        <item>мечка</item>
+        <item>скакалец</item>
+        <item>енот</item>
+        <item>червенушка</item>
+        <item>кос</item>
+        <item>врана</item>
+        <item>рис</item>
+        <item>кит</item>
+        <item>койот</item>
+        <item>мишка</item>
+        <item>бизон</item>
+        <item>ибис</item>
+        <item>елен</item>
+        <item>муха</item>
+        <item>папуняк</item>
+        <item>шимпанзе</item>
+        <item>морско свинче</item>
+        <item>гмурец</item>
+        <item>синигер</item>
+        <item>какаду</item>
+        <item>заек</item>
+        <item>червеногръдка</item>
+        <item>сурикат</item>
+        <item>гекон</item>
+        <item>чакал</item>
+        <item>зебу</item>
+        <item>фазан</item>
+        <item>орангутан</item>
+        <item>хамелеон</item>
+        <item>птица-носорог</item>
+        <item>къртица</item>
+        <item>капибара</item>
+        <item>косатка</item>
+        <item>кукувица</item>
+        <item>таралеж</item>
+        <item>тъпоклюна кайра</item>
+        <item>сърна</item>
+        <item>земна пчела</item>
+        <item>брадавичеста свиня</item>
+        <item>нанду</item>
+        <item>лама</item>
+        <item>павиан</item>
+        <item>видра</item>
+        <item>макак</item>
+        <item>канарче</item>
+        <item>бивол</item>
+        <item>морж</item>
+        <item>вълнист папагал</item>
+        <item>ягуар</item>
+        <item>пор</item>
+        <item>сврака</item>
+        <item>гибон</item>
+        <item>костенурка</item>
+        <item>леопард</item>
+        <item>лешояд</item>
+        <item>пума</item>
+        <item>сокол</item>
+        <item>червена панда</item>
+        <item>мангуста</item>
+        <item>жерав</item>
+        <item>бик</item>
+        <item>плъх</item>
+        <item>нутрия</item>
+        <item>токачка</item>
+        <item>хамстер</item>
+        <item>чинчила</item>
+        <item>казуар</item>
+        <item>прилеп</item>
+        <item>белуга</item>
+        <item>скункс</item>
+        <item>бодливо свинче</item>
+        <item>мравояд</item>
+        <item>комодски варан</item>
+        <item>алпака</item>
+        <item>ленивец</item>
+        <item>пъдпъдък</item>
+        <item>броненосец</item>
+        <item>сойка</item>
+        <item>водно конче</item>
+        <item>скорец</item>
+        <item>муфлон</item>
+    </array>
+</resources>

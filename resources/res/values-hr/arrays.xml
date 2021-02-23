@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>krava</item>
+        <item>antilopa</item>
+        <item>gorila</item>
+        <item>žirafa</item>
+        <item>slon</item>
+        <item>vodenkonj</item>
+        <item>lav</item>
+        <item>lisica</item>
+        <item>klokan</item>
+        <item>pingvin</item>
+        <item>tigar</item>
+        <item>dupin</item>
+        <item>divlja svinja</item>
+        <item>tuljan</item>
+        <item>gepard</item>
+        <item>vuk</item>
+        <item>zebra</item>
+        <item>žaba</item>
+        <item>tukan</item>
+        <item>koala</item>
+        <item>pijetao</item>
+        <item>komarac</item>
+        <item>konj</item>
+        <item>koza</item>
+        <item>nosorog</item>
+        <item>pčela</item>
+        <item>pas</item>
+        <item>pelikan</item>
+        <item>ovca</item>
+        <item>magarac</item>
+        <item>orao</item>
+        <item>sova</item>
+        <item>svizac</item>
+        <item>svinja</item>
+        <item>polarni medvjed</item>
+        <item>veliki panda</item>
+        <item>vjeverica</item>
+        <item>deva</item>
+        <item>zmija</item>
+        <item>golub</item>
+        <item>djetlić</item>
+        <item>ara</item>
+        <item>los</item>
+        <item>kokoš</item>
+        <item>divlja patka</item>
+        <item>dabar</item>
+        <item>jak</item>
+        <item>gavran</item>
+        <item>lemur</item>
+        <item>labud</item>
+        <item>galeb</item>
+        <item>osa</item>
+        <item>paun</item>
+        <item>sob</item>
+        <item>vrabac</item>
+        <item>plamenac</item>
+        <item>roda</item>
+        <item>čaplja</item>
+        <item>emu</item>
+        <item>divlja guska</item>
+        <item>patka</item>
+        <item>guska</item>
+        <item>mačka</item>
+        <item>noj</item>
+        <item>hijena</item>
+        <item>puran</item>
+        <item>krokodil</item>
+        <item>medvjed</item>
+        <item>skakavac</item>
+        <item>rakun</item>
+        <item>zimovka</item>
+        <item>kos</item>
+        <item>vrana</item>
+        <item>ris</item>
+        <item>kit</item>
+        <item>kojot</item>
+        <item>miš</item>
+        <item>bizon</item>
+        <item>ibis</item>
+        <item>jelen</item>
+        <item>muha</item>
+        <item>pupavac</item>
+        <item>čimpanza</item>
+        <item>zamorčić</item>
+        <item>gnjurac</item>
+        <item>sjenica</item>
+        <item>kakadu</item>
+        <item>kunić</item>
+        <item>crvendać</item>
+        <item>merkat</item>
+        <item>macaklin</item>
+        <item>čagalj</item>
+        <item>zebu</item>
+        <item>fazan</item>
+        <item>orangutan</item>
+        <item>kameleon</item>
+        <item>kljunorožac</item>
+        <item>krtica</item>
+        <item>kapibara</item>
+        <item>orka</item>
+        <item>kukavica</item>
+        <item>jež</item>
+        <item>morski papagaj</item>
+        <item>srna</item>
+        <item>bumbar</item>
+        <item>bradavičasta svinja</item>
+        <item>nandui</item>
+        <item>ljama</item>
+        <item>pavijan</item>
+        <item>vidra</item>
+        <item>majmun starog svijeta</item>
+        <item>kanarinac</item>
+        <item>bivol</item>
+        <item>morž</item>
+        <item>tigrica</item>
+        <item>jaguar</item>
+        <item>tvor</item>
+        <item>svraka</item>
+        <item>gibon</item>
+        <item>kornjača</item>
+        <item>leopard</item>
+        <item>sup</item>
+        <item>puma</item>
+        <item>sokol</item>
+        <item>crveni panda</item>
+        <item>mungosi</item>
+        <item>ždral</item>
+        <item>bik</item>
+        <item>štakor</item>
+        <item>nutrija</item>
+        <item>biserka</item>
+        <item>hrčak</item>
+        <item>činčila</item>
+        <item>kazuar</item>
+        <item>šišmiš</item>
+        <item>beluga</item>
+        <item>tvor</item>
+        <item>dikobraz</item>
+        <item>mravojed</item>
+        <item>komodski varan</item>
+        <item>alpaka</item>
+        <item>ljenivac</item>
+        <item>prepelica</item>
+        <item>armadil</item>
+        <item>šojka</item>
+        <item>vilinski konjic</item>
+        <item>čvorak</item>
+        <item>muflon</item>
+    </array>
+</resources>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>ಹಸು</item>
+        <item>ಜಿಂಕೆ</item>
+        <item>ಗೊರಿಲ್ಲಾ</item>
+        <item>ಜಿರಾಫೆ</item>
+        <item>ಆನೆ</item>
+        <item>ನೀರು ಆನೆ</item>
+        <item>ಸಿಂಹ</item>
+        <item>ನರಿ</item>
+        <item>ಕಾಂಗರೂ</item>
+        <item>ಪೆಂಗ್ವಿನ್</item>
+        <item>ಹುಲಿ</item>
+        <item>ಡಾಲ್ಫಿನ್</item>
+        <item>ಹಂದಿ</item>
+        <item>ನೀರು ನಾಯಿ</item>
+        <item>ಚಿರತೆ</item>
+        <item>ತೋಳ</item>
+        <item>ಜೀಬ್ರಾ</item>
+        <item>ಕಪ್ಪೆ</item>
+        <item>ಟೂಕನ್</item>
+        <item>ಕೋಲಾ</item>
+        <item>ಹುಂಜ</item>
+        <item>ಸೊಳ್ಳೆ</item>
+        <item>ಕುದುರೆ</item>
+        <item>ಆಡು</item>
+        <item>ಖಡ್ಗಮೃಗ</item>
+        <item>ನೊಣ</item>
+        <item>ನಾಯಿ</item>
+        <item>ನೀರುಹಕ್ಕಿ</item>
+        <item>ಕುರಿ</item>
+        <item>ಕತ್ತೆ</item>
+        <item>ಹದ್ದು</item>
+        <item>ಗೂಬೆ</item>
+        <item>ಮಾರ್ಮಟ್</item>
+        <item>ಹಂದಿ</item>
+        <item>ಹಿಮ ಕರಡಿ</item>
+        <item>ಫಾಂಡಾ</item>
+        <item>ಅಳಿಲು</item>
+        <item>ಒಂಟೆ</item>
+        <item>ಹಾವು</item>
+        <item>ಪಾರಿವಾಳ</item>
+        <item>ಮರಕುಟುಕ</item>
+        <item>ಗಿಳಿ</item>
+        <item>ಕಡವೆ</item>
+        <item>ಕೋಳಿ</item>
+        <item>ಕಾಡು ಕೋಳಿ</item>
+        <item>ನೀರು ನಾಯಿ</item>
+        <item>ಯಾಕ್</item>
+        <item>ಡೊಂಬ ಕಾಗೆ</item>
+        <item>ಲೇಮರ್</item>
+        <item>ಹಂಸ</item>
+        <item>ಬೆಳ್ಳಕ್ಕಿ</item>
+        <item>ಕಣಜ</item>
+        <item>ನವಿಲು</item>
+        <item>ಹಿಮಸಾರಂಗ</item>
+        <item>ಗುಬ್ಬಚ್ಚಿ</item>
+        <item>ರಾಜಹಂಸ</item>
+        <item>ಕೊಕ್ಕರೆ</item>
+        <item>ಕೊಕ್ಕರೆ</item>
+        <item>ಎಮು</item>
+        <item>ಕಾಡು ಹೆಬ್ಬಾತು</item>
+        <item>ಬಾತುಕೋಳಿ</item>
+        <item>ಹೆಬ್ಬಾತು</item>
+        <item>ಬೆಕ್ಕು</item>
+        <item>ಆಸ್ಟ್ರಿಚ್</item>
+        <item>ಹೈನಾ</item>
+        <item>ಟರ್ಕಿ</item>
+        <item>ಮೊಸಳೆ</item>
+        <item>ಕರಡಿ</item>
+        <item>ಮಿಡತೆ</item>
+        <item>ರಾಕೂನ್</item>
+        <item>ಬುಲ್ ಫಿಂಚ್</item>
+        <item>ಕಪ್ಪು ಹಕ್ಕಿ</item>
+        <item>ಕಾಗೆ</item>
+        <item>ಹೆಬ್ಬೆಕ್ಕು</item>
+        <item>ತಿಮಿಂಗಿಲ</item>
+        <item>ತೋಳ</item>
+        <item>ಇಲಿ</item>
+        <item>ಕಾಡೆಮ್ಮೆ</item>
+        <item>ಐಬಿಸ್</item>
+        <item>ಜಿಂಕೆ</item>
+        <item>ನೊಣ</item>
+        <item>ಹುಪು</item>
+        <item>ಚಿಂಪಾಂಜೀ</item>
+        <item>ಪ್ರಯೋಗ ಪ್ರಾಣಿ</item>
+        <item>ಗುಳುಮುಕುಳ</item>
+        <item>ಗುಬ್ಬಚ್ಚಿ</item>
+        <item>ಗಿಣಿ</item>
+        <item>ಮೊಲ</item>
+        <item>ರಾಬಿನ್ ಹಕ್ಕಿ</item>
+        <item>ಮಂಗ</item>
+        <item>ಹಲ್ಲಿ</item>
+        <item>ನರಿ</item>
+        <item>ಜೇಬು</item>
+        <item>ಬೇಟೆ ಹಕ್ಕಿ</item>
+        <item>ಒರಾಂಗುಟನ್</item>
+        <item>ಊಸರವಳ್ಳಿ</item>
+        <item>ಹಾರ್ನ್ ಬಿಲ್</item>
+        <item>ಹೆಗ್ಗಣ</item>
+        <item>ಕ್ಯಾಪಿಬಾರಾ</item>
+        <item>ದೈತ್ಯ ಪ್ರಾಣಿ</item>
+        <item>ಕೋಗಿಲೆ</item>
+        <item>ಮುಳ್ಳುಹಂದಿ</item>
+        <item>ಪಫಿನ್ ಹಕ್ಕಿ</item>
+        <item>ರೋ</item>
+        <item>ದೊಡ್ಡಜೇನು ನೊಣ</item>
+        <item>ಕಾಡುಹಂದಿ</item>
+        <item>ರಿಯಾ</item>
+        <item>ಲಾಮಾ</item>
+        <item>ಮಂಗ</item>
+        <item>ನೀರುನಾಯಿ</item>
+        <item>ಕೋತಿ</item>
+        <item>ಕ್ಯಾನರಿ</item>
+        <item>ಎಮ್ಮೆ</item>
+        <item>ಕಡಲ ಸಿಂಹ</item>
+        <item>ಬಡ್ಜ್ ರೈಗರ್</item>
+        <item>ಜಾಗ್ವಾರ್</item>
+        <item>ಫೆರೆಟ್</item>
+        <item>ಮ್ಯಾಗ್ಪೀ</item>
+        <item>ಗಿಬ್ಬನ್</item>
+        <item>ಆಮೆ</item>
+        <item>ಚಿರತೆ</item>
+        <item>ವಲ್ಚರ್</item>
+        <item>ಪುಮಾ</item>
+        <item>ಫಾಲ್ಕನ್</item>
+        <item>ಕೆಂಪು ಫಾಂಡಾ</item>
+        <item>ಮುಂಗುಸಿ</item>
+        <item>ಕ್ರೇನ್</item>
+        <item>ಗೂಳಿ</item>
+        <item>ಇಲಿ</item>
+        <item>ಕೊಯ್ಪು</item>
+        <item>ಜಿನಿ ಫಾವ್ಲ್</item>
+        <item>ಹಾಮ್ಸ್ಟರ್</item>
+        <item>ಚಿಂಚಿಲ್ಲಾ</item>
+        <item>ಕ್ಯಾಸೋವರಿ</item>
+        <item>ಗೂಬೆ</item>
+        <item>ಬೆಲುಗ</item>
+        <item>ಸಂಕ್</item>
+        <item>ಪೋರ್ಕುಪೈನ್</item>
+        <item>ಆಂಟ್ ಈಟರ್</item>
+        <item>ಕೊಮೊಡೊ ಡ್ರಾಗನ್</item>
+        <item>ಆಲ್ಪಕ</item>
+        <item>ಸ್ಲೋತ್</item>
+        <item>ಕ್ವಾಯ್ಲ್</item>
+        <item>ಅರ್ಮಾಡಿಲ್ಲೋ</item>
+        <item>ಜೇ</item>
+        <item>ಡ್ರಾಗನ್ ಫ್ಲೈ</item>
+        <item>ಸ್ಟರ್ಲಿಂಗ್</item>
+        <item>ಮೌಫ್ಲನ್</item>
+    </array>
+</resources>

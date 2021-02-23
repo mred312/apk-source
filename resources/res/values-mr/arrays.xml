@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>गाय</item>
+        <item>काळवा</item>
+        <item>गोरीला</item>
+        <item>जिराफ</item>
+        <item>हत्ती</item>
+        <item>पाणघोडा</item>
+        <item>सिंह</item>
+        <item>कोल्हा</item>
+        <item>कांगारू</item>
+        <item>पेंगुइन</item>
+        <item>वाघ</item>
+        <item>डॉल्फिन</item>
+        <item>डुक्कर</item>
+        <item>शिक्का</item>
+        <item>चित्ता</item>
+        <item>लांडगा</item>
+        <item>झेब्रा</item>
+        <item>बेडूक</item>
+        <item>टूकेन</item>
+        <item>कोलाला</item>
+        <item>कोंबडा</item>
+        <item>डास</item>
+        <item>घोडा</item>
+        <item>शेळी</item>
+        <item>गेंडा</item>
+        <item>मधमाशी</item>
+        <item>कुत्रा</item>
+        <item>पक्षी</item>
+        <item>मेंढरे</item>
+        <item>गाढव</item>
+        <item>गरुड</item>
+        <item>घुबड</item>
+        <item>मर्मोट</item>
+        <item>डुक्कर</item>
+        <item>ध्रुवीय अस्वल</item>
+        <item>जायंट पांडा</item>
+        <item>खार</item>
+        <item>उंट</item>
+        <item>साप</item>
+        <item>पारवा</item>
+        <item>सुतारपक्षी</item>
+        <item>आर</item>
+        <item>उदाहरण</item>
+        <item>कोंबडी</item>
+        <item>वन्य परतले</item>
+        <item>बीव्हर</item>
+        <item>वनगाय</item>
+        <item>कावळा</item>
+        <item>लेमुर</item>
+        <item>हंस पक्षी</item>
+        <item>सीगल</item>
+        <item>गांधीलमाशी</item>
+        <item>मोर</item>
+        <item>रेनडिअर</item>
+        <item>चिमणी</item>
+        <item>हंसक पक्षी</item>
+        <item>करकोचा</item>
+        <item>बगळे</item>
+        <item>इमू</item>
+        <item>वन्य हंस</item>
+        <item>परतले</item>
+        <item>हंस</item>
+        <item>मांजर</item>
+        <item>शहामृग</item>
+        <item>तरस</item>
+        <item>टर्की</item>
+        <item>मगर</item>
+        <item>सहन</item>
+        <item>टोळ</item>
+        <item>रकुन</item>
+        <item>बुलफ़ीच</item>
+        <item>काळटोप कस्तूर</item>
+        <item>कावळा</item>
+        <item>मांजर</item>
+        <item>खरपूस मार</item>
+        <item>राजपुत्राने</item>
+        <item>माऊस</item>
+        <item>रानगवे</item>
+        <item>सारस पक्षी</item>
+        <item>हरिण</item>
+        <item>माशी</item>
+        <item>हुदहुद</item>
+        <item>चिम्पानिजी</item>
+        <item>गिनीपिग</item>
+        <item>ग्रय्बी</item>
+        <item>ठोसा</item>
+        <item>काकाकुवा</item>
+        <item>ससा</item>
+        <item>रोबी</item>
+        <item>मिरकत</item>
+        <item>पाल</item>
+        <item>कोल्हा</item>
+        <item>बैलाचा जातीचा</item>
+        <item>तितर पक्षी</item>
+        <item>उरांगउटांग</item>
+        <item>सरडा</item>
+        <item>धनेश</item>
+        <item>तीळ</item>
+        <item>कॅपिबारा</item>
+        <item>ओरका</item>
+        <item>कोकिळा</item>
+        <item>साळू</item>
+        <item>पुफिन</item>
+        <item>माशाची अंडी</item>
+        <item>भ्रमर माशी</item>
+        <item>रानटी डुक्कर</item>
+        <item>रिया</item>
+        <item>लमा</item>
+        <item>मोठा वानर</item>
+        <item>पाणमांजर</item>
+        <item>माकड</item>
+        <item>पिवळ्या पिसांचा गाणारा पक्षी</item>
+        <item>म्हैस</item>
+        <item>वालरस</item>
+        <item>हिरवा ऑस्ट्रेलियन पोपट</item>
+        <item>जग्वार</item>
+        <item>फेर्रेट</item>
+        <item>मागपइए</item>
+        <item>लांब हाताचा वानर</item>
+        <item>कबुतर</item>
+        <item>चित्ता</item>
+        <item>गिधाड</item>
+        <item>चित्त्यासारखा एक हिंस्र प्राणी</item>
+        <item>बहिरी ससाणा</item>
+        <item>लाल पांडा</item>
+        <item>मुंगूस</item>
+        <item>क्रेन</item>
+        <item>बैल</item>
+        <item>उंदीर</item>
+        <item>कोय्पू</item>
+        <item>गिनी</item>
+        <item>हॅम्पस्टरचा</item>
+        <item>चिंचिला</item>
+        <item>उडू न शकणारा एक मोठा पक्षी</item>
+        <item>वटवाघूळ</item>
+        <item>बेलुगा</item>
+        <item>स्कंगक</item>
+        <item>साळिंदर</item>
+        <item>अँटइटर</item>
+        <item>कोमोडो ड्रॅगन</item>
+        <item>लामा</item>
+        <item>सुस्त प्राणी</item>
+        <item>लावा</item>
+        <item>आर्माडिलो</item>
+        <item>बडबड्या</item>
+        <item>ड्रॅगनफ्लाय</item>
+        <item>काळसर पिसांचा</item>
+        <item>मोउफ़्लोन</item>
+    </array>
+</resources>

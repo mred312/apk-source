@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/main" android:background="#00000000" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.dream_studio.animalsounds.CustomImageView android:id="@+id/bkg" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="matrix" android:adjustViewBounds="true"/>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <View android:id="@+id/textSwitcherShadowTop" android:background="@drawable/drop_shadow_top" android:visibility="gone" android:layout_width="match_parent" android:layout_height="7dp"/>
+        <RelativeLayout android:id="@+id/mainBar" android:background="#44000000" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+                <ImageButton android:id="@+id/button_flag" android:background="@drawable/transparent_button" android:padding="0dp" android:layout_width="wrap_content" android:layout_height="@dimen/main_flag_button_size" android:src="@drawable/gb" android:scaleType="centerInside" android:contentDescription="@null"/>
+                <TextView android:textSize="12sp" android:textColor="@android:color/white" android:id="@+id/text_language" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/jezyk"/>
+            </LinearLayout>
+            <com.dream_studio.animalsounds.RecyclingImageView android:id="@+id/title" android:layout_width="@dimen/main_title_size" android:layout_height="wrap_content" android:adjustViewBounds="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:contentDescription="@null"/>
+            <ImageButton android:id="@+id/button_menu" android:background="@drawable/main_button_settings" android:layout_width="@dimen/main_tools_big_button_size" android:layout_height="@dimen/main_tools_big_button_size" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@null"/>
+        </RelativeLayout>
+        <View android:id="@+id/textSwitcherShadowBottom" android:background="@drawable/drop_shadow" android:layout_width="match_parent" android:layout_height="7dp"/>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_alignParentLeft="true" android:layout_centerVertical="false">
+                <ToggleButton android:id="@+id/mute" android:background="@drawable/main_button_mute" android:layout_width="@dimen/main_mute_button_size_land" android:layout_height="@dimen/main_mute_button_size_land" android:layout_marginBottom="15dp" android:textOn="" android:textOff=""/>
+            </LinearLayout>
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/images_top_margin_menu" android:layout_marginBottom="5dp" android:layout_centerHorizontal="true">
+                <ImageButton android:id="@+id/button_zwierzeta" android:background="@drawable/main_button_play" android:layout_width="@dimen/main_play_button_size" android:layout_height="@dimen/main_play_button_size" android:contentDescription="@null"/>
+            </RelativeLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="15dp" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+                <ToggleButton android:id="@+id/button_random" android:background="@drawable/main_button_random" android:layout_width="@dimen/main_tools_small_button_size" android:layout_height="@dimen/main_tools_small_button_size" android:layout_marginBottom="15dp" android:textOn="" android:textOff=""/>
+                <ImageButton android:id="@+id/button_category" android:background="@drawable/main_button_group" android:layout_width="@dimen/main_group_button_size" android:layout_height="@dimen/main_group_button_size" android:layout_marginBottom="15dp" android:contentDescription="@null"/>
+                <ImageButton android:id="@+id/button_like" android:background="@drawable/button_main_like" android:layout_width="@dimen/main_tools_small_button_size" android:layout_height="@dimen/main_tools_small_button_size" android:textOn="" android:textOff=""/>
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:id="@+id/volume_control_box" android:background="@drawable/round_white_bkg" android:padding="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_below="@+id/textSwitcherShadowBottom" android:layout_centerHorizontal="true">
+            <include layout="@layout/volume_control"/>
+        </RelativeLayout>
+    </LinearLayout>
+    <include layout="@layout/share_button"/>
+</RelativeLayout>

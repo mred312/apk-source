@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="vertical" android:background="@drawable/licence_gradient" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="5dp" android:layout_marginRight="20dp" android:layout_marginBottom="5dp">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/quit_dlg_message_layout" android:paddingLeft="20dp" android:paddingTop="20dp" android:paddingRight="20dp" android:paddingBottom="15dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="28sp" android:textStyle="bold" android:textColor="#ff0e5994" android:id="@+id/text_welcome" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="WELCOME" android:textAllCaps="true"/>
+            <Button android:textSize="15sp" android:textColor="#ff0f5095" android:id="@+id/acceptBtn" android:background="@drawable/licence_start_button" android:paddingLeft="5dp" android:paddingTop="13dp" android:paddingRight="5dp" android:paddingBottom="13dp" android:layout_width="272dp" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginTop="10dp" android:layout_marginRight="15dp" android:layout_marginBottom="15dp" android:text="@string/buttonStart"/>
+            <Button android:textSize="15sp" android:textColor="#ff0f5095" android:id="@+id/languageBtn" android:background="@drawable/licence_lang_button" android:paddingLeft="5dp" android:paddingTop="13dp" android:paddingRight="5dp" android:paddingBottom="13dp" android:layout_width="272dp" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginTop="0dp" android:layout_marginRight="15dp" android:layout_marginBottom="15dp" android:text="ENGLISH"/>
+            <ScrollView android:id="@+id/scroll" android:layout_width="wrap_content" android:layout_height="0dp" android:fillViewport="true" android:layout_weight="1">
+                <LinearLayout android:orientation="vertical" android:id="@+id/texts" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textSize="12dp" android:textColor="#161743" android:gravity="center" android:id="@+id/license_info" android:background="@drawable/clickable_background_black_15" android:paddingTop="6dp" android:paddingBottom="6dp" android:focusable="false" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp"/>
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

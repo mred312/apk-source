@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="animals">
+        <item>গরু</item>
+        <item>হরিণ</item>
+        <item>গরিলা</item>
+        <item>জিরাফ</item>
+        <item>হাতি</item>
+        <item>জলহস্তী</item>
+        <item>সিংহ</item>
+        <item>শিয়াল</item>
+        <item>ক্যাঙ্গারু</item>
+        <item>পেংগুইন</item>
+        <item>বাঘ</item>
+        <item>ডলফিন</item>
+        <item>বরাহ</item>
+        <item>সীল</item>
+        <item>চিতা</item>
+        <item>নেকড়ে</item>
+        <item>জেব্রা</item>
+        <item>বেঙ</item>
+        <item>টৌকেন</item>
+        <item>কোয়ালা</item>
+        <item>মোরগ</item>
+        <item>মশা</item>
+        <item>ঘোড়া</item>
+        <item>ছাগল</item>
+        <item>গণ্ডার</item>
+        <item>মৌমাছি</item>
+        <item>কুকুর</item>
+        <item>পেলিক্যান</item>
+        <item>ভেড়া</item>
+        <item>গাধা</item>
+        <item>ঈগল</item>
+        <item>পেঁচা</item>
+        <item>কাঠবিড়াল</item>
+        <item>শুয়োর</item>
+        <item>মেরু ভালুক</item>
+        <item>বিশাল পান্ডা</item>
+        <item>কাঠবিড়াল</item>
+        <item>উট</item>
+        <item>সাপ</item>
+        <item>পায়রা</item>
+        <item>কাঠঠোকরা</item>
+        <item>আরা</item>
+        <item>মুস</item>
+        <item>মুরগি</item>
+        <item>বুনো হাঁস</item>
+        <item>বিভার</item>
+        <item>ইয়াক</item>
+        <item>দাঁড়কাক</item>
+        <item>লেমুর</item>
+        <item>রাজহাঁস</item>
+        <item>সীগাল</item>
+        <item>বোলতা</item>
+        <item>ময়ুর</item>
+        <item>বল্গাহরিণ</item>
+        <item>চড়ুই</item>
+        <item>ফ্লেমিংগো</item>
+        <item>সারস</item>
+        <item>বক</item>
+        <item>এমু</item>
+        <item>বুনো হাঁস</item>
+        <item>হাঁস</item>
+        <item>হাঁস</item>
+        <item>বিড়াল</item>
+        <item>উটপাখি</item>
+        <item>হায়না</item>
+        <item>টারকি</item>
+        <item>কুমির</item>
+        <item>ভালুক</item>
+        <item>ফড়িং</item>
+        <item>রাকূন</item>
+        <item>বুলফ্লিচ</item>
+        <item>কালো পাখি</item>
+        <item>ফণাওয়াল কাক</item>
+        <item>লিংস্ক</item>
+        <item>তিমি</item>
+        <item>কয়োট</item>
+        <item>ইঁদুর</item>
+        <item>বাইসন</item>
+        <item>দোচরা</item>
+        <item>হরিণ</item>
+        <item>মাছি</item>
+        <item>হুপি</item>
+        <item>শিম্পাঞ্জি</item>
+        <item>গিনিপিগ</item>
+        <item>ডুবুরি</item>
+        <item>টিট</item>
+        <item>কাকাতুয়া</item>
+        <item>খরগোশ</item>
+        <item>রবিন</item>
+        <item>মিরকাট</item>
+        <item>গেকো</item>
+        <item>শিয়াল</item>
+        <item>ষাঁড়</item>
+        <item>ফেসেন্ট</item>
+        <item>ওরানগুগাং</item>
+        <item>গিরগিটি</item>
+        <item>হর্নবিল</item>
+        <item>মোল</item>
+        <item>ক্যাপিবারা</item>
+        <item>অর্কা</item>
+        <item>কোকিল</item>
+        <item>সজারু</item>
+        <item>পুফিন</item>
+        <item>রো</item>
+        <item>মৌমাছি</item>
+        <item>ওর্টাহগ</item>
+        <item>রিয়া</item>
+        <item>লামা</item>
+        <item>বেবুন</item>
+        <item>ভোঁদড়</item>
+        <item>ম্যাকক</item>
+        <item>ক্যানারী পাখি</item>
+        <item>মহিষ</item>
+        <item>সিন্ধুঘোটক</item>
+        <item>বজরিগার</item>
+        <item>জাগুয়ার</item>
+        <item>ফেরেট</item>
+        <item>দোয়েল</item>
+        <item>গিবন</item>
+        <item>কচ্ছপ</item>
+        <item>চিতা</item>
+        <item>শকুনি</item>
+        <item>বনবিড়াল</item>
+        <item>বাজপাখি</item>
+        <item>লাল পান্ডা</item>
+        <item>বেজি</item>
+        <item>ক্রেন</item>
+        <item>ষাঁড়</item>
+        <item>ইঁদুর</item>
+        <item>কয়েপু</item>
+        <item>গিনি ফাউল</item>
+        <item>হ্যামস্টার</item>
+        <item>চিনচিলা</item>
+        <item>কাসয়ারি</item>
+        <item>বাদুড়</item>
+        <item>বেলুগা</item>
+        <item>স্কাংক</item>
+        <item>শজারু</item>
+        <item>অ্যান্টিয়েটার</item>
+        <item>কোমোডো ড্রাগন</item>
+        <item>আলপাকা</item>
+        <item>স্লথ</item>
+        <item>কোয়েল</item>
+        <item>আরমাডিলো</item>
+        <item>জে</item>
+        <item>গয়াল-পোকা</item>
+        <item>স্টারলিং</item>
+        <item>মৌফলন</item>
+    </array>
+</resources>

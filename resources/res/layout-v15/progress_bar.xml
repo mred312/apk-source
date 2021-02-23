@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.qintong.library.InsLoadingView android:layout_gravity="center" android:id="@+id/waitWebView" android:layout_width="100dp" android:layout_height="100dp" android:src="@drawable/wiki" android:layout_centerInParent="true" app:circle_duration="2000" app:end_color="#ffffd900" app:rotate_duration="10000" app:start_color="#fff700c2" app:status="0"/>
+</merge>
